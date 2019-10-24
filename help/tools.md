@@ -17,7 +17,7 @@ Nella schermata Strumenti, potete attivare o disattivare vari strumenti per la s
 
 ![](assets/tools.jpg)
 
-Puoi inserire dinamicamente Launch o DTM in qualsiasi pagina per eseguire il test su una pagina in cui non è installato Launch o DTM. Fate clic sull'icona **[!UICONTROL Incorpora codice]** , digitate il codice [da](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) incorporare e fate clic su **[!UICONTROL Salva]**.
+Puoi inserire dinamicamente Launch o DTM in qualsiasi pagina per eseguire il test su una pagina in cui non è installato Launch o DTM. Fate clic sull' **[!UICONTROL Embed Code]** icona, digitate il codice [da](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) incorporare e fate clic su **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
