@@ -23,7 +23,7 @@ Viene visualizzata la schermata Riepilogo debugger di Adobe Experience Cloud.
 
 Questa schermata mostra una miniatura della pagina, nonché l’URL e il titolo della pagina. Contiene inoltre informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, "AppMeasurement v2.9") e gli identificatori dell'account (ad esempio, l'ID suite di rapporti di Analytics, il codice client di Target, l'ID partner di Audience Manager e così via)
 
-I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. Per azzerarli, fate clic su **[!UICONTROL Cancella tutte le richieste]** nella relativa scheda.
+I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. È possibile reimpostare questi valori su zero facendo clic **[!UICONTROL Clear All Requests]** nella relativa scheda.
 
 Ad esempio, l'immagine seguente mostra informazioni su Adobe Target. Per esporre i dettagli dell'attività riportati di seguito senza autenticazione, è necessario implementare il listener di eventi Debugging nel codice o nel gestore di tag e attivare i token [di](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) risposta necessari nell'interfaccia di Target.
 
@@ -31,7 +31,7 @@ Ad esempio, l'immagine seguente mostra informazioni su Adobe Target. Per esporre
 
 ## Eseguire un audit in Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Potete utilizzare Adobe Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Adobe Auditor, fate clic su **[!UICONTROL Esegui controllo multipagina ora]**.
+Potete utilizzare Adobe Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Auditor, fai clic **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Adobe Auditor, fate clic su **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Informazioni visualizzate nel debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
