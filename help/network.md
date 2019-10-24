@@ -13,7 +13,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 # Informazioni sulla rete{#network-information}
 
-Per visualizzare le informazioni sulla rete, fare clic su **[!UICONTROL Rete]**.
+Per visualizzare le informazioni sulla rete, fare clic su **[!UICONTROL Network]**.
 
 La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
 
@@ -25,7 +25,7 @@ La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience C
 >
 >Al momento, non tutti i parametri passati nelle chiamate della soluzione (ad esempio, variabili di contesto di Analytics, parametri personalizzati di Target o ID cliente del servizio Experience Cloud ID) sono visibili nella schermata Rete.
 
-Per visualizzare tutte le informazioni, selezionate **[!UICONTROL Tutto]**.
+Per visualizzare tutte le informazioni, selezionare **[!UICONTROL All]**.
 
 Potete anche filtrare le informazioni per soluzione. Selezionare le soluzioni da visualizzare. Potete visualizzare più soluzioni contemporaneamente. I filtri selezionati per la soluzione sono evidenziati.
 
