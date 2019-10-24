@@ -22,4 +22,4 @@ La schermata Registri fornisce informazioni specifiche per le implementazioni DT
 
 ![](assets/logs.jpg)
 
-Alcuni elementi di registro di Gestione dinamica dei tag includono un’opzione Mostra codice nel messaggio. Fare clic su **[!UICONTROL Mostra codice]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
+Alcuni elementi di registro di Gestione dinamica dei tag includono un’opzione Mostra codice nel messaggio. Fare clic **[!UICONTROL Show Code]** per visualizzare il codice condizionale che determina se una regola deve essere attivata.
