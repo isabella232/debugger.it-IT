@@ -1,6 +1,6 @@
 ---
 source-git-commit: a29fa566513ef1b69e3b0b4be1d4cb2c22c72fe1
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Licenza MIT
