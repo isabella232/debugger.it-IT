@@ -9,7 +9,7 @@ tutorials-title: Esercitazioni
 tutorials-url: https://helpx.adobe.com/it/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://github.com/AdobeDocs/debugger.en
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d78218242347d004d2bf9737ba745d12673a06d5
 
 ---
@@ -27,4 +27,4 @@ Il file metadata.md include metadati a livello di repository che passano attrave
 | getting-started-url | Collegamento all’aiuto della pagina guida introduttiva |
 | tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o KT |
 | mini-toc-levels | Determina il numero di livelli di intestazione visualizzati nella barra laterale destra. Il valore predefinito è 2 |
-| git-repo | Specifica la posizione dell'operazione repository master per uso interno |
+| git-repo | Specifica la posizione dell’operazione repository master per uso interno |
