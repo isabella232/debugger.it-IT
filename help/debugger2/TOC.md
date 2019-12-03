@@ -5,12 +5,12 @@ sub-product: experience cloud debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
 
 
-# Guida di Experience Cloud Debugger {#using}
+# Guida di Experience Cloud Debugger {#using-v2}
 
 + [Estensione Adobe Experience Cloud Debugger](experience-cloud-debugger.md)
 + [Note sulla versione](release-notes.md)
