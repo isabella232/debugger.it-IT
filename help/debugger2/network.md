@@ -6,7 +6,7 @@ seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience C
 
 ![](assets/network.jpg)
 
-Questa schermata è utile per confermare che i parametri utilizzati per le integrazioni, come Experience Cloud Visitor ID o Supplemental Data ID, sono coerenti tra le diverse integrazioni.
+Questa schermata è utile per confrontare coppie di valori chiave tra hit. Puoi confermare che i parametri utilizzati per le integrazioni, ad esempio Experience Cloud Visitor ID o Supplemental Data ID, sono coerenti tra le diverse integrazioni.
 
 >[!NOTE]
 >
