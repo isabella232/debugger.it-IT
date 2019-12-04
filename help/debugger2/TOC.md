@@ -5,7 +5,7 @@ sub-product: experience cloud debugger 2.0
 audience: end-user
 user-guide-title: Experience Cloud Debugger 2.0 Help
 translation-type: tm+mt
-source-git-commit: 5fcaa00d09e5563b8bcb5d81606f40b847dd1e49
+source-git-commit: bf6b269ab30c158442758a86619e675eed3d6a8f
 
 ---
 
