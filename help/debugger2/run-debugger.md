@@ -4,7 +4,7 @@ description: Descrizione della schermata Riepilogo in Adobe Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: c2f512f5451befbdb7aa39ac3f17a89a8c52a55f
+source-git-commit: b4a4b74f3c60b88881fe90411826e8194f4a4f2c
 
 ---
 
