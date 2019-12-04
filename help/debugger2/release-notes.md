@@ -6,7 +6,7 @@ seo-title: Note sulla versione
 title: Note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 ---
 
@@ -48,7 +48,7 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Prove dei revisori </p> </td> 
-   <td colname="col2"> <p> Aggiunte <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> prove Auditor</a> a Debugger </p> </td> 
+   <td colname="col2"> <p> Aggiunte <a href="summary.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> prove Auditor</a> a Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
