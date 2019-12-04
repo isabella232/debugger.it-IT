@@ -1,12 +1,10 @@
 ---
-description: nulle
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: 'null'
-seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
+description: Descrizione della schermata Riepilogo in Adobe Debugger
+keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: c2f512f5451befbdb7aa39ac3f17a89a8c52a55f
 
 ---
 
@@ -217,4 +215,3 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
  </tbody> 
 </table>
-
