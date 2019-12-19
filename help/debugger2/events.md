@@ -1,40 +1,40 @@
 ---
-description: nulle
+description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: nulle
+seo-description: 'null'
 seo-title: Eventi
 title: Eventi
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
 
-# Eventi{#events}
+# Eventi {#events}
 
-La schermata Eventi fornisce una visualizzazione grafica degli eventi che si verificano, visualizzata su una timeline.
+La schermata Eventi mostra una vista grafica degli eventi che si verificano, disposti secondo una sequenza temporale.
 
 ![](assets/events.jpg)
 
-Per ogni evento, nella timeline viene visualizzata un’icona per la soluzione Experience Cloud applicabile. Le icone mostrano anche le modifiche al livello dati (se attivato). Passate il puntatore del mouse sopra un'icona per un riepilogo dell'evento. Fate clic sull'evento per ulteriori dettagli. Per visualizzare più eventi, tenete premuto il tasto Maiusc e fate clic o Ctrl e fate clic.
+Per ogni evento, nella sequenza temporale viene visualizzata un’icona per la soluzione Experience Cloud applicabile. Le icone mostrano anche le modifiche apportate al livello dati (se attivato). Passa il puntatore del mouse sopra un’icona per visualizzare un riepilogo dell’evento. Fai clic sull’evento per ulteriori dettagli. Per visualizzare più eventi, premi MAIUSC+clic o CTRL+clic.
 
 ![](assets/events-details.jpg)
 
-Fate clic su un dettaglio per ulteriori informazioni.
+Fai clic su un dettaglio per avere ulteriori informazioni.
 
 ![](assets/events-details-more.jpg)
 
-## Rileva modifiche al livello dati
+## Rileva modifiche apportate al livello dati
 
-Per abilitare il tracciamento delle modifiche al livello dei dati nella timeline:
+Per abilitare il tracciamento delle modifiche al livello dei dati nella sequenza temporale:
 
-1. Fate clic sull'icona Ingranaggio in alto a destra.
+1. Fai clic sull’icona a forma di ingranaggio in alto a destra.
 1. Inserisci il nome del livello dati.
    ![](assets/event-datalayer.jpg)
 1. Fai clic su **[!UICONTROL Save]**.
 
-I dettagli di modifica del livello dati mostrano tutti gli elementi che sono stati eliminati o aggiunti. Puoi fare clic su **{}** per approfondire il livello dei dati.
+I dettagli delle modifiche mostrano tutti gli elementi che sono stati eliminati o aggiunti al livello dati. Puoi fare clic su **{}** per avere più informazioni sul livello dati.
 
-## Download delle informazioni sull'evento
+## Scarica le informazioni sull’evento
 
-Fate clic **[!UICONTROL Download]** per scaricare un file Excel contenente informazioni sulle chiamate di pagina.
+Fai clic su **[!UICONTROL Download]** per scaricare un file Excel con le informazioni sulle chiamate effettuate da una pagina.
