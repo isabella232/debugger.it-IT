@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Registri
 title: Registri
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -22,4 +22,4 @@ La schermata Registri fornisce informazioni specifiche per le implementazioni DT
 
 ![](assets/logs.jpg)
 
-Alcuni elementi di registro di DTM includono l’opzione Mostra codice nel messaggio. Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+Alcuni elementi di registro di DTM includono l’opzione Mostra codice nel messaggio. Fai clic su **[!UICONTROL Show Code]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
