@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Informazioni di Rete {#network-information}
+# Rete{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Network]**.
 
@@ -25,7 +29,7 @@ Questa schermata è utile per confrontare coppie di valori chiave tra i diversi 
 >
 >Al momento, non tutti i parametri passati nelle chiamate della soluzione (ad esempio, variabili di contesto di Analytics, parametri personalizzati di Target o ID cliente del servizio Experience Cloud ID) sono visibili nella schermata Rete.
 
-Per filtrare le informazioni per soluzione, seleziona la soluzione da visualizzare dall’elenco nella barra di spostamento a sinistra. Nell’esempio seguente il filtro è impostato in modo da mostrare solo Analytics:
+Per modificare le informazioni per soluzione, selezionate la soluzione che desiderate visualizzare dall&#39;elenco nella navigazione a sinistra. Nell’esempio seguente il filtro è impostato in modo da mostrare solo Analytics:
 
 ![](assets/network-analytics.jpg)
 
