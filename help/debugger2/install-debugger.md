@@ -5,20 +5,24 @@ seo-description: 'null'
 seo-title: Installa Experience Cloud Debugger
 title: Installa Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Installa Experience Cloud Debugger {#install-experience-cloud-debugger}
+# Installare Adobe Experience Platform Debugger{#install-experience-platform-debugger}
 
-Scarica e installa l’estensione Adobe Experience Cloud Debugger.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+
+Scarica e installa Adobe Experience Platform Debugger.
 
 * **Chrome:** dalla [pagina delle estensioni Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** dalla [pagina dei componenti aggiuntivi Firefox](https://addons.mozilla.org/it/firefox/addon/adobe-experience-platform-dbg/)
+* **Firefox:** dalla [pagina dei componenti aggiuntivi Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
-Dopo che hai installato l’estensione, viene aggiunta un’icona alla barra delle estensioni di
+Dopo aver installato l’estensione Chrome o il componente aggiuntivo Firefox, viene aggiunta un’icona alla barra delle estensioni:
 
 ![](assets/start-icon.jpg)
 
@@ -26,10 +30,3 @@ Dopo che hai installato l’estensione, viene aggiunta un’icona alla barra del
 
 Fai clic sull’icona per avviare Debugger.
 
-Una volta avviato, puoi applicare l’aspetto desiderato **** selezionando la **Modalità scura** (impostazione predefinita) o la **Modalità chiara**.
-
-Quando modifichi le pagine del sito, la finestra Debugger si aggiorna e mostra le informazioni di quelle pagine. Il nome della pagina a cui sei connesso compare nella parte inferiore della schermata. Per mantenere Debugger bloccato su una pagina, fai clic su **[!UICONTROL Lock]** nell’angolo inferiore destro della finestra Debugger.
-
-![](assets/lock.jpg)
-
-Questa funzione ti consente di leggere la documentazione o visualizzare informazioni su un’altra pagina mentre esegui il debug.
