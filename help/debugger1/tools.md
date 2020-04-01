@@ -5,8 +5,8 @@ seo-description: 'null'
 seo-title: Strumenti
 title: Strumenti
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ Nella schermata Strumenti, puoi attivare o disattivare vari strumenti per la sol
 
 ![](assets/tools.jpg)
 
-Puoi inserire in modo dinamico Launch o DTM in qualsiasi pagina per eseguire il test su una pagina in cui non è installato Launch o DTM. Fai clic sull’icona **[!UICONTROL Embed Code]**, digita il [codice di incorporamento](https://experiencecloud.adobe.com/resources/help/it_IT/dtm/deployment.html) e fai clic su **[!UICONTROL Save]**.
+Puoi inserire in modo dinamico Launch o DTM in qualsiasi pagina per eseguire il test su una pagina in cui non è installato Launch o DTM. Fai clic sull’icona **[!UICONTROL Embed Code]**, digita il [codice di incorporamento](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) e fai clic su **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -81,4 +81,4 @@ Puoi inserire in modo dinamico Launch o DTM in qualsiasi pagina per eseguire il 
 
 Nel video seguente viene illustrato come utilizzare l’estensione Debugger con Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
