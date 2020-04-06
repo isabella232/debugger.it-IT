@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Note sulla versione
 title: Note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
