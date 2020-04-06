@@ -6,23 +6,23 @@ seo-title: Installa Experience Cloud Debugger
 title: Installa Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Installare Adobe Experience Platform Debugger{#install-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 Scarica e installa Adobe Experience Platform Debugger.
 
 * **Chrome:** dalla [pagina delle estensioni Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** dalla [pagina dei componenti aggiuntivi Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
+* **Firefox:** dalla [pagina dei componenti aggiuntivi Firefox](https://addons.mozilla.org/it/firefox/addon/adobe-experience-platform-dbg/)
 
-Dopo aver installato l’estensione Chrome o il componente aggiuntivo Firefox, viene aggiunta un’icona alla barra delle estensioni:
+Dopo che hai installato l’estensione per Chrome o il componente aggiuntivo per Firefox, viene aggiunta un’icona alla barra delle estensioni:
 
 ![](assets/start-icon.jpg)
 
