@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
@@ -29,11 +29,11 @@ Questa schermata è utile per confrontare coppie di valori chiave tra i diversi 
 >
 >Al momento, non tutti i parametri passati nelle chiamate della soluzione (ad esempio, variabili di contesto di Analytics, parametri personalizzati di Target o ID cliente del servizio Experience Cloud ID) sono visibili nella schermata Rete.
 
-Per modificare le informazioni per soluzione, selezionate la soluzione che desiderate visualizzare dall&#39;elenco nella navigazione a sinistra. Nell’esempio seguente il filtro è impostato in modo da mostrare solo Analytics:
+Per cambiare le informazioni in base alla soluzione, seleziona la soluzione da visualizzare dall’elenco nella barra di navigazione a sinistra. Nell’esempio seguente il filtro è impostato in modo da mostrare solo Analytics:
 
 ![](assets/network-analytics.jpg)
 
-Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL Network]**
+Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL Network]**.
 
 Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla finestra di visualizzazione espansa, puoi copiare le informazioni visualizzate negli Appunti.
 
@@ -45,4 +45,4 @@ Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla fin
 
 Per cancellare l’elenco, fai clic su **[!UICONTROL Remove Events]**.
 
-Per scaricare un file Excel con le informazioni su questa schermata, fai clic su **[!UICONTROL Download]**.
+Per scaricare un file Excel con le informazioni di questa schermata, fai clic su **[!UICONTROL Download]**.
