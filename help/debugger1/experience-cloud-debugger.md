@@ -5,7 +5,7 @@ seo-description: '‘Documentazione tecnica per l’estensione Adobe Experience 
 seo-title: Estensione Adobe Experience Cloud Debugger per Chrome
 title: Estensione Adobe Experience Cloud Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,9 +17,9 @@ L’[estensione Adobe Experience Cloud Debugger per Chrome](https://chrome.googl
 
 Utilizza l’estensione Adobe Experience Cloud Debugger con le altre soluzioni di Adobe Activation per un flusso di lavoro come indicato di seguito:
 
-1. Utilizza [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) o [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) nelle tue pagine.
+1. Utilizza [Launch](https://docs.adobe.com/content/help/it-IT/launch/using/overview.html) o [DTM](https://docs.adobe.com/content/help/it-IT/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.html) nelle tue pagine.
 
-1. Utilizza [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) per testare le tue implementazioni.
+1. Utilizza [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/it-IT/auditor/using/overview.html) per testare le tue implementazioni.
 1. Utilizza l’estensione Adobe Experience Cloud Debugger per eseguire il debug dei problemi rilevati da Auditor o per esaminare altre informazioni sulle implementazioni.
 
 Non è necessario eseguire i passaggi di cui sopra in tale ordine, ma si tratta della procedura comune.
