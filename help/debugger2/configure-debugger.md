@@ -4,7 +4,7 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: 'null'
 seo-title: Configurare Experience Cloud Debugger
 title: Configurare Experience Cloud Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
