@@ -5,13 +5,13 @@ seo-description: 'null'
 seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
-# Rete{#network}
+# Rete {#network}
 
 >[!IMPORTANT]
 >
