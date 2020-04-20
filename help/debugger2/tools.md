@@ -5,13 +5,13 @@ seo-description: 'null'
 seo-title: Strumenti
 title: Strumenti
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
-# Strumenti{#tools}
+# Strumenti {#tools}
 
 >[!IMPORTANT]
 >
@@ -85,4 +85,4 @@ Puoi inserire in modo dinamico Launch o DTM in qualsiasi pagina per eseguire il 
 
 Nel video seguente viene illustrato come utilizzare l’estensione Debugger con Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ita)
