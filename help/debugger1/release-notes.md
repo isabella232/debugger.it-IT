@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Note sulla versione
 title: Note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
@@ -219,7 +219,7 @@ La versione 0.0.803 non include modifiche rivolte ai clienti.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aggiorna collegamento della guida nel piè di pagina </p> </td> 
-   <td colname="col2"> <p>Aggiorna il collegamento della guida a piè di pagina a <a href="https://docs.adobe.com/content/help/it-IT/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Aggiorna il collegamento della guida nel piè di pagina in modo che rimandi a <a href="https://docs.adobe.com/content/help/it-IT/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/it-IT/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ La versione 0.0.803 non include modifiche rivolte ai clienti.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Mbox  toggle </p> </td> 
+   <td colname="col1"> <p>Opzioni per mbox </p> </td> 
    <td colname="col2"> <p>Sono state aggiunte opzioni per mbox alla scheda Target </p> </td> 
   </tr> 
   <tr> 
