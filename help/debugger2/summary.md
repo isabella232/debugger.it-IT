@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+workflow-type: tm+mt
+source-wordcount: '927'
+ht-degree: 100%
 
 ---
 
