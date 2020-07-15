@@ -5,9 +5,9 @@ seo-description: 'null'
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '940'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ La schermata contiene informazioni su ciascuna soluzione Adobe Experience Cloud.
 
 ## Informazioni visualizzate nel debugger
 
-Debugger mostra le seguenti informazioni per ciascuna soluzione:
+Il debugger mostra le seguenti informazioni per ciascuna soluzione:
 
 **Adobe Analytics**
 
@@ -44,11 +44,11 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> definita per la pagina. </p> </td> 
+   <td colname="col2"> <p>Versione <a href="https://docs.adobe.com/content/help/it-IT/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external"> AppMeasurement</a> definita per la pagina. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione visitatore </p> </td> 
-   <td colname="col2"> <p>Versione della libreria <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria <a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome pagina </p> </td> 
@@ -148,7 +148,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione della libreria<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,7 +194,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
    <td colname="col2"> <p>ID dell’esperienza Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nome offerta</p> </td> 
+   <td colname="col1"> <p>Nome  Nome</p> </td> 
    <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external">offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
