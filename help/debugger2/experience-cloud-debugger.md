@@ -5,9 +5,9 @@ seo-description: '‘Documentazione tecnica per l’estensione Adobe Experience 
 seo-title: Estensione Adobe Experience Platform Debugger per Chrome e Firefox
 title: Estensione Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 [Adobe Experience Platform Debugger per Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) e [Firefox](https://addons.mozilla.org/it/firefox/addon/adobe-experience-platform-dbg/) esamina le pagine web e ti aiuta a individuare problemi nell’implementazione delle soluzioni Experience Cloud.
 
@@ -26,14 +26,14 @@ Utilizza Adobe Experience Platform Debugger con le altre soluzioni di attivazion
 
 1. Utilizza [Launch](https://docs.adobe.com/content/help/it-IT/launch/using/overview.html) o [DTM](https://docs.adobe.com/content/help/it-IT/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/core-services/interface/experience-cloud.html) nelle tue pagine.
 
-1. Utilizza [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) per testare le tue implementazioni.
+1. Utilizza [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/it-IT/auditor/using/overview.html) per testare le tue implementazioni.
 1. Utilizza Adobe Experience Platform Debugger per eseguire il debug dei problemi rilevati da Auditor o per esaminare altre informazioni sulle implementazioni.
 
 Non è necessario eseguire i passaggi di cui sopra in tale ordine, ma si tratta della procedura comune.
 
 Anche se puoi eseguire il debugger su qualsiasi pagina web, i dati non pubblici sono disponibili nell’estensione solo se sei autenticato in Experience Cloud in una delle schede Chrome aperte.
 
-## Casi d&#39;uso {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Casi d’uso {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Usa Debugger per raccogliere informazioni utili per comprendere come vengono implementate le soluzioni Experience Cloud. Ad esempio:
 
@@ -42,4 +42,4 @@ Usa Debugger per raccogliere informazioni utili per comprendere come vengono imp
 
 ## Esercitazione video
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=ita)
