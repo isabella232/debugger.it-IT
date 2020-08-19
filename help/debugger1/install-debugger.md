@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Istruzioni di installazione per il Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: 'null'
+seo-description: Istruzioni di installazione per il Experience Cloud Debugger
 seo-title: Installa Experience Cloud Debugger
 title: Installa Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 80%
 
 ---
 
@@ -19,4 +22,4 @@ Dopo che hai installato l’estensione, viene aggiunta un’icona alla barra del
 
 ![](assets/start-icon.jpg)
 
->[!VIDEO](https://video.tv.adobe.com/v/23114t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)
