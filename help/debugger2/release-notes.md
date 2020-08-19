@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Note sulla versione del Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: 'null'
+seo-description: Note sulla versione del Experience Cloud Debugger
 seo-title: Note sulla versione
 title: Note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '36'
+ht-degree: 72%
 
 ---
 
