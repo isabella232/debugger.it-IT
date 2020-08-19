@@ -1,11 +1,14 @@
 ---
-description: 'null'
+description: Schermata Eventi Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: 'null'
+seo-description: Schermata Eventi Experience Cloud Debugger
 seo-title: Eventi
 title: Eventi
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 94%
 
 ---
 
