@@ -1,15 +1,15 @@
 ---
-description: Schermata Riepilogo Experience Cloud Debugger
+description: Schermata Riepilogo di Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Schermata Riepilogo Experience Cloud Debugger
+seo-description: Schermata Riepilogo di Experience Cloud Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '948'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ La schermata contiene informazioni su ciascuna soluzione Adobe Experience Cloud.
 
 ## Informazioni visualizzate nel debugger
 
-Il debugger mostra le seguenti informazioni per ciascuna soluzione:
+Debugger mostra le seguenti informazioni per ciascuna soluzione:
 
 **Adobe Analytics**
 
@@ -48,7 +48,7 @@ Il debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione visitatore </p> </td> 
-   <td colname="col2"> <p>Versione della libreria <a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria <a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome pagina </p> </td> 
@@ -90,7 +90,7 @@ Il debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione di Turbine</a> </p> </td> 
+   <td colname="col2"> <p>Versione di Turbine.</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
@@ -148,7 +148,7 @@ Il debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -167,7 +167,7 @@ Il debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome richiesta globale </p> </td> 
-   <td colname="col2"> <p>La<a href="https://docs.adobe.com/content/help/it-IT/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> mbox globale</a> si riferisce alla singola chiamata server effettuata nella parte superiore di ogni pagina web nell’implementazione di Target. </p> </td> 
+   <td colname="col2"> <p>La<a href="https://docs.adobe.com/help/it-IT/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> mbox globale</a> si riferisce alla singola chiamata server effettuata nella parte superiore di ogni pagina web nell’implementazione di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Evento caricamento pagina </p> </td> 
