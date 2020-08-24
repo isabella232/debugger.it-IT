@@ -1,15 +1,15 @@
 ---
-description: Come installare il Experience Cloud Debugger
+description: Installazione di Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: Come installare il Experience Cloud Debugger
+seo-description: Installazione di Experience Cloud Debugger
 seo-title: Installa Experience Cloud Debugger
 title: Installa Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 87%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 Scarica e installa Adobe Experience Platform Debugger.
 
