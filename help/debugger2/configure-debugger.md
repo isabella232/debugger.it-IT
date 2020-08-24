@@ -1,14 +1,14 @@
 ---
-description: Come configurare il Experience Cloud Debugger
+description: Configurazione di Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: Come configurare il Experience Cloud Debugger
+seo-description: Configurazione di Experience Cloud Debugger
 seo-title: Configurare Experience Cloud Debugger
 title: Configurare Experience Cloud Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 ## Modalità chiara o scura
 
-Una volta avviato Debugger, puoi applicare l’aspetto desiderato da **** selezionando la ** modalità scura ** (importazione predefinita) o la ** modalità chiara **.
+Una volta avviato Debugger, puoi applicare l’aspetto desiderato da **** selezionando la **modalità scura** (importazione predefinita) o la **modalità chiara**.
 
 ## Reimpostare
 
