@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger in esecuzione
+description: Esecuzione di Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger in esecuzione
+seo-description: Esecuzione di Experience Cloud Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Viene visualizzata la schermata Riepilogo di Adobe Experience Cloud Debugger.
 
 ![](assets/summary.jpg)
 
-Questa schermata mostra una miniatura della pagina, nonché l’URL e il titolo di quest’ultima. Contiene, inoltre, informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, “AppMeasurement v2.9”) e gli identificatori dell’account (come l’ID suite di rapporti di Analytics, il codice client di Target, l’ID partner di Audience Manager e così via)
+Questa schermata mostra una miniatura della pagina, nonché l’URL e il titolo di quest’ultima. Contiene, inoltre, informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, “AppMeasurement v2.9”) e gli identificatori dell’account (come l’ID suite di rapporti di Analytics, il codice client di Target, l’ID partner di Audience Manager e così via).
 
 I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. Per reimpostarli, fai clic su **[!UICONTROL Clear All Requests]** nella relativa scheda.
 
@@ -73,7 +73,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione visitatore </p> </td> 
-   <td colname="col2"> <p>Versione della libreria <a href="https://docs.adobe.com/content/help/it-IT/analytics/technotes/visitor-identification.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria <a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome pagina </p> </td> 
@@ -123,11 +123,11 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> Ambiente</a> utilizzato dalla libreria Launch </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> Ambiente</a> utilizzato dalla libreria Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Directory dello script </p> </td> 
-   <td colname="col2"> <p>La directory in cui è memorizzato lo script Launch </p> </td> 
+   <td colname="col2"> <p>La directory in cui è memorizzato lo script Launch. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,11 +138,11 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome libreria </p> </td> 
-   <td colname="col2"> <p>Nome della<a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external"> libreria</a> Adobe DTM </p> </td> 
+   <td colname="col2"> <p>Nome della<a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external"> libreria</a> Adobe DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione di Turbine </p> </td> 
+   <td colname="col2"> <p>Versione di Turbine. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
@@ -150,11 +150,11 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>Ambiente utilizzato dalla libreria DTM </p> </td> 
+   <td colname="col2"> <p>Ambiente utilizzato dalla libreria DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Directory dello script </p> </td> 
-   <td colname="col2"> <p>La directory in cui è memorizzato lo script DTM </p> </td> 
+   <td colname="col2"> <p>La directory in cui è memorizzato lo script DTM. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -169,7 +169,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/it-IT/analytics/technotes/visitor-identification.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -184,11 +184,11 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>La versione corrente di <a href="https://docs.adobe.com/content/help/it-IT/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> o mbox.js </p> </td> 
+   <td colname="col2"> <p>La versione corrente di <a href="https://docs.adobe.com/content/help/it-IT/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> o mbox.js. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome mbox globale </p> </td> 
-   <td colname="col2"> <p>La<a href="https://docs.adobe.com/help/it-IT/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> mbox globale</a> si riferisce alla singola chiamata server effettuata nella parte superiore di ogni pagina web nell’implementazione di Target </p> </td> 
+   <td colname="col2"> <p>La<a href="https://docs.adobe.com/help/it-IT/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> mbox globale</a> si riferisce alla singola chiamata server effettuata nella parte superiore di ogni pagina web nell’implementazione di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome mbox </p> </td> 
