@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: Configurazione di Experience Cloud Debugger
 seo-title: Configurare Experience Cloud Debugger
 title: Configurare Experience Cloud Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 È possibile configurare alcuni aspetti dell’aspetto e del funzionamento di Debugger.
 
@@ -29,7 +29,7 @@ Una volta avviato Debugger, puoi applicare l’aspetto desiderato da **[!UICONT
 
 ## Reimpostare
 
-Click **[!UICONTROL Reset all Data and Settings]** to return to clear all data and return to the default settings.
+Fai clic su **[!UICONTROL Reset all Data and Settings]** per cancellare tutti i dati e ripristinare le impostazioni predefinite.
 
 ## Bloccare Debugger su una pagina
 
