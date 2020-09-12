@@ -4,10 +4,11 @@ product: experience cloud
 sub-product: experience cloud debugger 2.0
 audience: end-user
 user-guide-title: Aiuto di Experience Cloud Debugger 2.0
+breadcrumb-title: Debugger 2.0 Guide
 index: true
-translation-type: ht
-source-git-commit: ed288779f14c817487da751b519b1f1c7707691b
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
+workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 100%
 
