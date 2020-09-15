@@ -6,9 +6,9 @@ audience: end-user
 user-guide-title: Aiuto di Experience Cloud Debugger 2.0
 breadcrumb-title: Debugger 2.0 Guide
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 + [Estensione Adobe Experience Cloud Debugger](experience-cloud-debugger.md)
 + [Note sulla versione](release-notes.md)
-+ [Installa Experience Cloud Debugger](install-debugger.md)
++ [Installare Experience Cloud Debugger](install-debugger.md)
 + [Configurare Debugger](configure-debugger.md)
 + [Schermata Riepilogo](summary.md)
 + [Soluzioni](solutions.md)
