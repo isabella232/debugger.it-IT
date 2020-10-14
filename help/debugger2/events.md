@@ -1,14 +1,14 @@
 ---
-description: Schermata Eventi di Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Schermata Eventi di Experience Cloud Debugger
+description: ' schermata Eventi debugger Experience Platform'
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: ' schermata Eventi debugger Experience Platform'
 seo-title: Eventi
 title: Eventi
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 La schermata Eventi mostra una vista grafica degli eventi che si verificano, disposti secondo una sequenza temporale.
 
 ![](assets/events.jpg)
 
-Per ogni evento, nella sequenza temporale viene visualizzata un’icona per la soluzione Experience Cloud applicabile. Le icone mostrano anche le modifiche apportate al livello dati (se attivato). Passa il puntatore del mouse sopra un’icona per visualizzare un riepilogo dell’evento. Fai clic sull’evento per ulteriori dettagli. Per visualizzare più eventi, premi MAIUSC+clic o CTRL+clic.
+Per ogni evento, nella sequenza temporale viene visualizzata un’icona per la soluzione applicabile. Le icone mostrano anche le modifiche apportate al livello dati (se attivato). Passa il puntatore del mouse sopra un’icona per visualizzare un riepilogo dell’evento. Fai clic sull’evento per ulteriori dettagli. Per visualizzare più eventi, premi MAIUSC+clic o CTRL+clic.
 
 ![](assets/events-details.jpg)
 
