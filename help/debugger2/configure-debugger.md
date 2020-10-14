@@ -1,14 +1,14 @@
 ---
-description: Configurazione di Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: Configurazione di Experience Cloud Debugger
-seo-title: Configurare Experience Cloud Debugger
-title: Configurare Experience Cloud Debugger
-translation-type: ht
-source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+description: Come configurare  Debugger Experience Platform
+keywords: debugger;experience platform debugger extension;chrome;extension;configure
+seo-description: Come configurare  Debugger Experience Platform
+seo-title: Configurare  Debugger Experience Platform
+title: Configurare  Debugger Experience Platform
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 35%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
-È possibile configurare alcuni aspetti dell’aspetto e del funzionamento di Debugger.
+Potete configurare alcuni aspetti di come  Debugger Experience Platform appare e funziona.
 
 ![](assets/settings.jpg)
 
 ## Modalità chiara o scura
 
-Una volta avviato Debugger, puoi applicare l’aspetto desiderato da **[!UICONTROL Settings]** selezionando la **modalità scura** (importazione predefinita) o la **modalità chiara**.
+After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
 
 ## Reimpostare
 
 Fai clic su **[!UICONTROL Reset all Data and Settings]** per cancellare tutti i dati e ripristinare le impostazioni predefinite.
 
-## Bloccare Debugger su una pagina
+## Blocca  Debugger Experience Platform su una pagina
 
-Quando modifichi le pagine del sito, la finestra Debugger si aggiorna e mostra le informazioni di quelle pagine. Il nome della pagina a cui sei connesso compare nella parte inferiore della schermata. Per mantenere Debugger bloccato su una pagina, fai clic su **[!UICONTROL Lock]** nell’angolo inferiore destro della finestra Debugger.
+Quando si modificano le pagine del sito, la finestra del debugger del Experience Platform  si aggiorna per mostrare le informazioni per quella pagina. Il nome della pagina a cui sei connesso compare nella parte inferiore della schermata. To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
 
 ![](assets/lock.jpg)
 
