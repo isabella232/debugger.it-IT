@@ -1,12 +1,15 @@
 ---
-description: Utilizzo delle schede Soluzione in Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Utilizzo delle schede Soluzione in Adobe Debugger
-seo-title: Schede Soluzione in Adobe Debugger
+description: Utilizzo delle schede Soluzione in Adobe Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Utilizzo delle schede Soluzione in Adobe Experience Platform Debugger '
+seo-title: 'Schede della soluzione in Adobe Experience Platform Debugger '
 title: Schede Soluzione
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 Fai clic su una soluzione per visualizzare i risultati per specifiche soluzioni Adobe Experience Cloud.
 
@@ -39,7 +42,7 @@ Utilizza la scheda [Audience Manager](https://docs.adobe.com/content/help/it-IT/
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilizza la sezione Launch per visualizzare le richieste Launch. Puoi anche fare clic su **[!UICONTROL Configuration]** per configurare i [codici di incorporamento](https://docs.adobe.com/content/help/it-IT/launch/using/reference/upgrade/link-dtm-embed-code.html). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
+Utilizza la sezione Launch per visualizzare le richieste Launch. Puoi anche fare clic su **[!UICONTROL Configuration]** per configurare i [codici di incorporamento](https://docs.adobe.com/content/help/it-IT/launch/using/reference/upgrade/link-dtm-embed-code.html). È possibile modificare, sostituire o aggiungere altri codici da incorporare direttamente  Debugger Experience Platform. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
