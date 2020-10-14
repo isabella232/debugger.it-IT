@@ -1,24 +1,24 @@
 ---
-description: Debugger esamina le pagine web e aiuta a individuare i problemi relativi all’implementazione delle soluzioni Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension
-seo-description: '‘Documentazione tecnica per l’estensione Adobe Experience Cloud Debugger 2.0 Chrome e Firefox: esamina le pagine web e illustra i problemi con le implementazioni delle soluzioni Experience Cloud’'
+description: ' Experience Platform Debugger esamina le pagine Web e aiuta a trovare i problemi relativi all''implementazione delle soluzioni di Experience Cloud '
+keywords: debugger;experience Platform Debugger extension;chrome;extension
+seo-description: 'Documentazione tecnica per Adobe Experience Platform Debugger Chrome e Firefox Extension - esaminare le pagine Web e comprendere i problemi con le implementazioni delle soluzioni di Experience Cloud '
 seo-title: Estensione Adobe Experience Platform Debugger per Chrome e Firefox
 title: Estensione Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
-workflow-type: ht
-source-wordcount: '307'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 65%
 
 ---
 
 
-# (Beta) Adobe Experience Platform Debugger 2.0 {#adobe-experience-platform-debugger}
+# (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 [Adobe Experience Platform Debugger per Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) e [Firefox](https://addons.mozilla.org/it/firefox/addon/adobe-experience-platform-dbg/) esamina le pagine web e ti aiuta a individuare problemi nell’implementazione delle soluzioni Experience Cloud.
 
@@ -31,15 +31,15 @@ Utilizza Adobe Experience Platform Debugger con le altre soluzioni di attivazion
 
 Non è necessario eseguire i passaggi di cui sopra in tale ordine, ma si tratta della procedura comune.
 
-Anche se puoi eseguire il debugger su qualsiasi pagina web, i dati non pubblici sono disponibili nell’estensione solo se sei autenticato in Experience Cloud in una delle schede Chrome aperte.
+Anche se è possibile eseguire il Debugger Experience Platform  su qualsiasi pagina Web, qualsiasi dato non pubblico è disponibile nell&#39;estensione solo se si è autenticati nel Experience Cloud  in una delle schede Chrome aperte.
 
 ## Casi d’uso {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-Usa Debugger per raccogliere informazioni utili per comprendere come vengono implementate le soluzioni Experience Cloud. Ad esempio:
+Utilizzate il debugger di Experience Platform  per raccogliere informazioni utili per comprendere in che modo vengono implementate le soluzioni di Experience Cloud . Ad esempio:
 
 * **Launch:** consulta quali proprietà, ambiente e build sono implementati in una pagina.
 * **Target:** scopri le attività per le quali hai o meno diritto e perché.
 
 ## Esercitazione video
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
