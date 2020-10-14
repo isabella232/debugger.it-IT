@@ -1,15 +1,15 @@
 ---
-description: Schermata Registri di Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Schermata Registri di Experience Cloud Debugger
+description: ' schermata Registri del debugger di Experience Platform'
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: ' schermata Registri del debugger di Experience Platform'
 seo-title: Registri
 title: Registri
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 La schermata Registri fornisce informazioni specifiche sulle implementazioni DTM, Launch e AEP Web SDK. Per visualizzare queste informazioni non è necessario abilitare lo strumento di debug della console per DTM. Puoi filtrare in base alle soluzioni implementate tramite gli strumenti associati.
 
