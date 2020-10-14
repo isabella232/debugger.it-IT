@@ -1,15 +1,15 @@
 ---
-description: Schermata Riepilogo di Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Schermata Riepilogo di Experience Cloud Debugger
+description: 'Schermata di riepilogo del debugger del Experience Platform '
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: 'Schermata di riepilogo del debugger del Experience Platform '
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '948'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 96%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Cloud Debugger 2.0 è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
 
 Per eseguire Adobe Experience Platform Debugger, fai clic sull’icona nella barra del browser, quindi apri la pagina da esaminare nel browser.
 
@@ -30,9 +30,9 @@ Viene visualizzata la schermata Riepilogo di Adobe Experience Platform Debugger.
 
 La schermata contiene informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, “AppMeasurement v2.9”) e gli identificatori dell’account (come l’ID suite di rapporti di Analytics, il codice client di Target, l’ID partner di Audience Manager e così via).
 
-## Informazioni visualizzate nel debugger
+## Informazioni visualizzate in  Debugger Experience Platform
 
-Debugger mostra le seguenti informazioni per ciascuna soluzione:
+ Debugger Experience Platform mostra le seguenti informazioni per ciascuna soluzione:
 
 **Adobe Analytics**
 
