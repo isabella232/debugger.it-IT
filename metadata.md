@@ -9,11 +9,11 @@ tutorials-title: Esercitazioni
 tutorials-url: https://helpx.adobe.com/it/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.it-IT
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
