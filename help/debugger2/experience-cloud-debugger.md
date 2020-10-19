@@ -1,15 +1,15 @@
 ---
-description: ' Experience Platform Debugger esamina le pagine Web e aiuta a trovare i problemi relativi all''implementazione delle soluzioni di Experience Cloud '
+description: Experience Platform Debugger esamina le pagine web e aiuta a individuare i problemi relativi all’implementazione delle soluzioni Experience Cloud.
 keywords: debugger;experience Platform Debugger extension;chrome;extension
-seo-description: 'Documentazione tecnica per Adobe Experience Platform Debugger Chrome e Firefox Extension - esaminare le pagine Web e comprendere i problemi con le implementazioni delle soluzioni di Experience Cloud '
+seo-description: 'Documentazione tecnica per l’estensione Adobe Experience Platform Debugger per Chrome e Firefox: esamina le pagine web e riconosci i problemi relativi alle implementazioni delle soluzioni Experience Cloud'
 seo-title: Estensione Adobe Experience Platform Debugger per Chrome e Firefox
 title: Estensione Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -31,15 +31,15 @@ Utilizza Adobe Experience Platform Debugger con le altre soluzioni di attivazion
 
 Non è necessario eseguire i passaggi di cui sopra in tale ordine, ma si tratta della procedura comune.
 
-Anche se è possibile eseguire il Debugger Experience Platform  su qualsiasi pagina Web, qualsiasi dato non pubblico è disponibile nell&#39;estensione solo se si è autenticati nel Experience Cloud  in una delle schede Chrome aperte.
+Anche se puoi eseguire Experience Platform Debugger su qualsiasi pagina web, i dati non pubblici sono disponibili nell’estensione solo se sei autenticato in Experience Cloud in una delle schede Chrome aperte.
 
 ## Casi d’uso {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-Utilizzate il debugger di Experience Platform  per raccogliere informazioni utili per comprendere in che modo vengono implementate le soluzioni di Experience Cloud . Ad esempio:
+Usa Experience Platform Debugger per raccogliere informazioni utili per comprendere come vengono implementate le soluzioni Experience Cloud. Esempio:
 
 * **Launch:** consulta quali proprietà, ambiente e build sono implementati in una pagina.
 * **Target:** scopri le attività per le quali hai o meno diritto e perché.
 
 ## Esercitazione video
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=ita)
