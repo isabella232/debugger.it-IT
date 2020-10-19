@@ -1,14 +1,14 @@
 ---
-description: ' schermata Eventi debugger Experience Platform'
+description: Schermata Eventi di Experience Platform Debugger
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: ' schermata Eventi debugger Experience Platform'
+seo-description: Schermata Eventi di Experience Platform Debugger
 seo-title: Eventi
 title: Eventi
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
