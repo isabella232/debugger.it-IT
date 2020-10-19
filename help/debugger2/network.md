@@ -1,15 +1,15 @@
 ---
-description: ' Experience Platform Debugger Network, schermata'
+description: Schermata Rete di Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: ' Experience Platform Debugger Network, schermata'
+seo-description: Schermata Rete di Experience Platform Debugger
 seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
