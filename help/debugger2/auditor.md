@@ -3,11 +3,11 @@ description: Informazioni su Experience Platform Auditor
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: Informazioni su Experience Platform Auditor
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
