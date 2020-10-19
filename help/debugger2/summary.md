@@ -1,15 +1,15 @@
 ---
-description: 'Schermata di riepilogo del debugger del Experience Platform '
+description: Schermata Riepilogo di Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: 'Schermata di riepilogo del debugger del Experience Platform '
+seo-description: Schermata Riepilogo di Experience Platform Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '949'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ Viene visualizzata la schermata Riepilogo di Adobe Experience Platform Debugger.
 
 La schermata contiene informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, “AppMeasurement v2.9”) e gli identificatori dell’account (come l’ID suite di rapporti di Analytics, il codice client di Target, l’ID partner di Audience Manager e così via).
 
-## Informazioni visualizzate in  Debugger Experience Platform
+## Informazioni visualizzate in Experience Platform Debugger
 
- Debugger Experience Platform mostra le seguenti informazioni per ciascuna soluzione:
+Experience Platform Debugger mostra le seguenti informazioni per ciascuna soluzione:
 
 **Adobe Analytics**
 
@@ -187,15 +187,15 @@ La schermata contiene informazioni su ciascuna soluzione Adobe Experience Cloud.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome esperienza </p> </td> 
-   <td colname="col2"> <p>Il nome dell’ <a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/experiences.html" format="html" scope="external"> esperienza</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Il nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/experiences.html" format="html" scope="external"> esperienza</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID esperienza </p> </td> 
    <td colname="col2"> <p>ID dell’esperienza Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nome  Nome</p> </td> 
-   <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external">offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col1"> <p>Nome     Nome</p> </td> 
+   <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external"> offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID offerta </p> </td> 
