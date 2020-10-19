@@ -1,15 +1,15 @@
 ---
-description: ' schermata Registri del debugger di Experience Platform'
+description: Schermata Registri di Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
-seo-description: ' schermata Registri del debugger di Experience Platform'
+seo-description: Schermata Registri di Experience Platform Debugger
 seo-title: Registri
 title: Registri
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
