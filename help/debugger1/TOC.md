@@ -2,12 +2,13 @@
 cloud: experience-cloud
 product: experience cloud
 sub-product: experience cloud debugger
+solution: Experience Cloud
 audience: end-user
 user-guide-title: Guida di Experience Cloud Debugger
 user-guide-description: Esamina le pagine web per individuare eventuali problemi relativi alle implementazioni delle soluzioni Experience Cloud.
 breadcrumb-title: Guida a Debugger
 translation-type: tm+mt
-source-git-commit: 89781a342e467513b244240c171fc5bad040ca35
+source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
