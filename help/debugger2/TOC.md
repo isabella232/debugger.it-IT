@@ -8,9 +8,9 @@ user-guide-title: Aiuto di Experience Platform Debugger
 user-guide-description: Esamina le pagine web per individuare eventuali problemi relativi alle implementazioni di Experience Platform.
 breadcrumb-title: Guida di Platform Debugger
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 + [Estensione Adobe Experience Platform Debugger](experience-cloud-debugger.md)
 + [Note sulla versione](release-notes.md)
 + [Installare Experience Platform Debugger](install-debugger.md)
-+ [Configurare Experience Cloud Debugger](configure-debugger.md)
++ [Configurare Experience Platform Debugger](configure-debugger.md)
 + [Schermata Riepilogo](summary.md)
 + [Soluzioni](solutions.md)
 + [Registri](logs.md)
