@@ -5,11 +5,11 @@ seo-description: Schermata Riepilogo di Experience Platform Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '949'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '957'
+ht-degree: 92%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
 
-Per eseguire Adobe Experience Platform Debugger, fai clic sull’icona nella barra del browser, quindi apri la pagina da esaminare nel browser.
+Per eseguire Adobe Experience Platform Debugger, fate clic sull&#39;icona nella barra del browser, quindi aprite la pagina da esaminare nel browser.
 
 ![](assets/start-icon.jpg)
 
@@ -80,13 +80,13 @@ Experience Platform Debugger mostra le seguenti informazioni per ciascuna soluzi
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome </p> </td> 
-   <td colname="col2"> <p>Nome della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> proprietà</a> Adobe Launch. </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
@@ -94,11 +94,11 @@ Experience Platform Debugger mostra le seguenti informazioni per ciascuna soluzi
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
-   <td colname="col2"> <p>Data build della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/libraries.html" format="https" scope="external"> libreria</a> Launch. </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> Ambiente</a> utilizzato dalla libreria Launch. </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Estensioni </p> </td> 
@@ -107,13 +107,13 @@ Experience Platform Debugger mostra le seguenti informazioni per ciascuna soluzi
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe Experience Platform Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Versione libreria </p> </td> 
-   <td colname="col2"> <p>Numero della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">versione della libreria</a> AEB Web SDK. </p> </td> 
+   <td colname="col2"> <p>Numero della versione della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">libreria Adobe Experience Platform Web SDK</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namespace</p> </td> 
@@ -121,7 +121,7 @@ Experience Platform Debugger mostra le seguenti informazioni per ciascuna soluzi
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID proprietà </p> </td> 
-   <td colname="col2"> <p>Nome della proprietà Launch specificata nell’estensione. </p> </td> 
+   <td colname="col2"> <p>Nome della proprietà Platform Launch specificata nell'estensione </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Dominio Edge </p> </td> 
