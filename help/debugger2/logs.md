@@ -5,11 +5,11 @@ seo-description: Schermata Registri di Experience Platform Debugger
 seo-title: Registri
 title: Registri
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 87%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
 
-La schermata Registri fornisce informazioni specifiche sulle implementazioni DTM, Launch e AEP Web SDK. Per visualizzare queste informazioni non è necessario abilitare lo strumento di debug della console per DTM. Puoi filtrare in base alle soluzioni implementate tramite gli strumenti associati.
+La schermata Registri fornisce informazioni specifiche sulle implementazioni DTM, Adobe Experience Platform Launch  e Adobe Experience Platform Web SDK. Per visualizzare queste informazioni non è necessario abilitare lo strumento di debug della console per DTM. Puoi filtrare in base alle soluzioni implementate tramite gli strumenti associati.
 
 ![](assets/logs.jpg)
 
