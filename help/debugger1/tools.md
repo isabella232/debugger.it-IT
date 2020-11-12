@@ -5,11 +5,11 @@ seo-description: Schermata Strumenti di Experience Cloud Debugger
 seo-title: Strumenti
 title: Strumenti
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '388'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ Nella schermata Strumenti, puoi attivare o disattivare vari strumenti per la sol
 
 ![](assets/tools.jpg)
 
-Puoi inserire in modo dinamico Launch o DTM in qualsiasi pagina per eseguire il test su una pagina in cui non è installato Launch o DTM. Fai clic sull’icona **[!UICONTROL Embed Code]**, digita il [codice di incorporamento](https://docs.adobe.com/content/help/it-IT/dtm/using/client-side/deployment.html) e fai clic su **[!UICONTROL Save]**.
+Puoi inserire dinamicamente  Adobe Experience Platform Launch o DTM su qualsiasi pagina per eseguire il test su una pagina in cui non è installato Platform Launch o DTM. Fai clic sull’icona **[!UICONTROL Embed Code]**, digita il [codice di incorporamento](https://docs.adobe.com/content/help/it-IT/dtm/using/client-side/deployment.html) e fai clic su **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -84,4 +84,4 @@ Puoi inserire in modo dinamico Launch o DTM in qualsiasi pagina per eseguire il 
 
 Nel video seguente viene illustrato come utilizzare l’estensione Debugger con Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
