@@ -5,11 +5,11 @@ seo-description: 'Utilizzo delle schede Soluzione in Adobe Experience Platform D
 seo-title: 'Schede Soluzione in Adobe Experience Platform Debugger '
 title: Schede Soluzione
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 88%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e la funzionalità sono soggette a modifiche.
+>Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
 
 Fai clic su una soluzione per visualizzare i risultati per specifiche soluzioni Adobe Experience Cloud.
 
-## AEP Web SDK {#aep}
+## Adobe Experience Platform Web SDK {#aep}
 
-La schermata AEP Web SDK mostra informazioni sull’SDK Web per Adobe Experience Platform. Fai clic su **[!UICONTROL Configure]** per attivare o disattivare la registrazione nella console.
+La schermata Adobe Experience Platform Web SDK mostra informazioni sull’SDK Adobe Experience Platform Web. Fai clic su **[!UICONTROL Configure]** per attivare o disattivare la registrazione nella console.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -40,9 +40,9 @@ Utilizza la schermata Target per visualizzare le richieste di [Target](https://d
 
 Utilizza la scheda [Audience Manager](https://docs.adobe.com/content/help/it-IT/audience-manager/user-guide/aam-home.html) per visualizzare i dettagli degli [eventi](https://docs.adobe.com/content/help/it-IT/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Fai clic sull’organizzazione per espanderla e visualizzare le informazioni.
 
-## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
+## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilizza la sezione Launch per visualizzare le richieste Launch. Puoi anche fare clic su **[!UICONTROL Configuration]** per configurare i [codici di incorporamento](https://docs.adobe.com/content/help/it-IT/launch/using/reference/upgrade/link-dtm-embed-code.html). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Experience Platform Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
+Utilizzate la sezione  Adobe Experience Platform Launch per visualizzare le richieste di lancio della piattaforma. Puoi anche fare clic su **[!UICONTROL Configuration]** per configurare i [codici di incorporamento](https://docs.adobe.com/content/help/it-IT/launch/using/reference/upgrade/link-dtm-embed-code.html). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Experience Platform Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
