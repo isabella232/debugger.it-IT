@@ -5,22 +5,22 @@ seo-description: Esecuzione di Experience Cloud Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '1035'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1047'
+ht-degree: 89%
 
 ---
 
 
 # Schermata Riepilogo {#summary-screen}
 
-Per eseguire Experience Cloud Debugger, fai clic sull’icona dell’estensione nella barra delle estensioni, quindi apri la pagina da esaminare in Chrome.
+Per eseguire Adobe Experience Cloud Debugger, fate clic sull&#39;icona dell&#39;estensione nella barra delle estensioni, quindi aprite la pagina da esaminare in Chrome.
 
 ![](assets/start-icon.jpg)
 
-Viene visualizzata la schermata Riepilogo di Adobe Experience Cloud Debugger.
+Viene visualizzata la schermata Riepilogo di Experience Cloud Debugger.
 
 ![](assets/summary.jpg)
 
@@ -32,13 +32,13 @@ Ad esempio, l’immagine seguente mostra informazioni su Adobe Target. Per espor
 
 ![](assets/summary-target2.jpg)
 
-## Eseguire un audit in Auditor {#section-82bc57440406461ebf27a16855b71655}
+## Eseguire un audit in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Puoi utilizzare Adobe Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Adobe Auditor, fai clic su **[!UICONTROL Run Multi-Page Audit Now]**.
+È possibile utilizzare Plaform Auditor per eseguire una serie di controlli sulla pagina. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Informazioni visualizzate nel debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Debugger mostra le seguenti informazioni per ciascuna soluzione:
+L&#39;Experience Cloud Debugger mostra le seguenti informazioni per ogni soluzione:
 
 **Informazioni pagina**
 
@@ -105,13 +105,13 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome </p> </td> 
-   <td colname="col2"> <p>Nome della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> proprietà</a> Adobe Launch. </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
@@ -119,15 +119,15 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
-   <td colname="col2"> <p>Data build della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/libraries.html" format="https" scope="external"> libreria</a> Launch. </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> Ambiente</a> utilizzato dalla libreria Launch. </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Directory dello script </p> </td> 
-   <td colname="col2"> <p>La directory in cui è memorizzato lo script Launch. </p> </td> 
+   <td colname="col2"> <p>La directory in cui è memorizzato lo script Platform Launch </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
-   <td colname="col2"> <p>Data build della <a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external"> libreria</a> Launch. </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
@@ -204,7 +204,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome ricetta </p> </td> 
-   <td colname="col2"> <p>Il nome dell’ <a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/experiences.html" format="html" scope="external"> esperienza</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Il nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/experiences.html" format="html" scope="external"> esperienza</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID ricetta </p> </td> 
@@ -212,7 +212,7 @@ Debugger mostra le seguenti informazioni per ciascuna soluzione:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Offerta </p> </td> 
-   <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external">offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external"> offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID offerta </p> </td> 
