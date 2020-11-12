@@ -5,8 +5,11 @@ seo-description: Utilizzo delle schede Soluzione in Adobe Debugger
 seo-title: Schede Soluzione in Adobe Debugger
 title: Schede Soluzione
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1063'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +36,7 @@ Fai clic sull’ID suite di rapporti per espandere la visualizzazione:
 
 ![](assets/analytics-hits-expand.jpg)
 
-In questa schermata vengono visualizzate tutte le richieste dall’apertura di Debugger o dall’eliminazione delle richieste. I parametri predefiniti vengono mappati automaticamente a nomi descrittivi. Le variabili [prop ed eVar](https://docs.adobe.com/content/help/it-IT/analytics/implementation/vars/page-vars/evar.html) possono essere mappate ai tuoi nomi descrittivi personalizzati (ad esempio, “prop1” potrebbe essere visualizzato come “Tipo utente”) se eseguite l’autenticazione utilizzando la funzione “Collega Analytics” (vedi sotto). Le richieste vengono visualizzate in sequenza da sinistra a destra.
+Questa schermata mostra tutte le richieste dall&#39;apertura di Adobe Experience Platform Debugger o dall&#39;annullamento delle richieste. I parametri predefiniti vengono mappati automaticamente a nomi descrittivi. Le variabili [prop ed eVar](https://docs.adobe.com/content/help/it-IT/analytics/implementation/vars/page-vars/evar.html) possono essere mappate ai tuoi nomi descrittivi personalizzati (ad esempio, “prop1” potrebbe essere visualizzato come “Tipo utente”) se eseguite l’autenticazione utilizzando la funzione “Collega Analytics” (vedi sotto). Le richieste vengono visualizzate in sequenza da sinistra a destra.
 
 **Scarica:** salva tutte le richieste effettuate nella suite di rapporti come foglio di calcolo Excel.
 
@@ -41,7 +44,7 @@ In questa schermata vengono visualizzate tutte le richieste dall’apertura di D
 
 **Account collegati (legacy)**
 
-Fai clic su **[!UICONTROL Link Account]**, quindi immetti le informazioni richieste per collegare un account Analytics a Debugger.
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -53,7 +56,7 @@ Fai clic su **[!UICONTROL Link Account]**, quindi immetti le informazioni richie
 
 Abilita l’opzione Recupera hit post-elaborati se vuoi visualizzare i valori sugli hit di Analytics dopo l’esecuzione delle regole di elaborazione. Affinché questa funzione funzioni, devi accedere ad Adobe Experience Cloud.
 
-Quando questa opzione è attivata, alle richieste di Analytics viene aggiunto un parametro di debug. Gli hit continuano a essere elaborati come qualsiasi altro hit. Debugger interroga l’API di debug di Analytics per recuperare i valori delle regole di post-elaborazione per tutti gli hit con un ID hit originale. Gli hit post-elaborati hanno uno sfondo viola e sono visualizzati accanto all’hit originale.
+Quando questa opzione è attivata, alle richieste di Analytics viene aggiunto un parametro di debug. Gli hit continuano a essere elaborati come qualsiasi altro hit. Platform Debugger esegue il polling dell&#39;API di debug di Analytics per recuperare i valori delle regole di post-elaborazione per tutti gli hit con un ID hit originale. Gli hit post-elaborati hanno uno sfondo viola e sono visualizzati accanto all’hit originale.
 
 Per la maggior parte delle implementazioni di Analytics, le informazioni sulle regole di post-elaborazione sono disponibili in pochi minuti. L’implementazione di Analytics per Target (A4T) richiede molto più tempo.
 
@@ -85,11 +88,11 @@ Per abilitare Mbox Trace, devi avere una scheda Chrome aperta autenticata in Exp
 
 Il seguente video mostra la funzionalità di Target generale:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 Il seguente video mostra la traccia Mbox:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
