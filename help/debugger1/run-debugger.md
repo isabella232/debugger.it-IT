@@ -5,18 +5,18 @@ seo-description: Esecuzione di Experience Cloud Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # Schermata Riepilogo {#summary-screen}
 
-Per eseguire Adobe Experience Cloud Debugger, fate clic sull&#39;icona dell&#39;estensione nella barra delle estensioni, quindi aprite la pagina da esaminare in Chrome.
+Per eseguire Adobe Experience Cloud Debugger, fai clic sull’icona dell’estensione nella barra delle estensioni, quindi apri la pagina da esaminare in Chrome.
 
 ![](assets/start-icon.jpg)
 
@@ -34,11 +34,11 @@ Ad esempio, l’immagine seguente mostra informazioni su Adobe Target. Per espor
 
 ## Eseguire un audit in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-È possibile utilizzare Plaform Auditor per eseguire una serie di controlli sulla pagina. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Puoi utilizzare Platform Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Platform Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Platform Auditor, fai clic su **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Informazioni visualizzate in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-L&#39;Experience Cloud Debugger mostra le seguenti informazioni per ogni soluzione:
+Experience Cloud Debugger mostra le seguenti informazioni per ciascuna soluzione:
 
 **Informazioni pagina**
 
@@ -100,7 +100,7 @@ L&#39;Experience Cloud Debugger mostra le seguenti informazioni per ogni soluzio
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external"> ID utente univoco</a> associato all’istanza DIL. </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">ID utente univoco</a> associato all’istanza DIL </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -111,7 +111,7 @@ L&#39;Experience Cloud Debugger mostra le seguenti informazioni per ogni soluzio
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Nome della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">proprietà</a> di Platform Launch </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
@@ -119,15 +119,15 @@ L&#39;Experience Cloud Debugger mostra le seguenti informazioni per ogni soluzio
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Data della build della <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/libraries.html" format="https" scope="external">libreria</a> di Platform Launch </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/it-IT/launch/using/reference/publish/environments.html" format="https" scope="external">Ambiente</a> utilizzato dalla libreria Platform Launch </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Directory dello script </p> </td> 
-   <td colname="col2"> <p>La directory in cui è memorizzato lo script Platform Launch </p> </td> 
+   <td colname="col1"> <p>Directory script </p> </td> 
+   <td colname="col2"> <p>Directory in cui è memorizzato lo script di Platform Launch </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ L&#39;Experience Cloud Debugger mostra le seguenti informazioni per ogni soluzio
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Data della build della <a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external">libreria</a> di Platform Launch </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
