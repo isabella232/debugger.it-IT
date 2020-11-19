@@ -5,11 +5,11 @@ seo-description: Note sulla versione di Experience Cloud Debugger
 seo-title: Note sulla versione
 title: Note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '723'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -51,11 +51,11 @@ ht-degree: 85%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Test di Adobe Experience Platform Auditor </p> </td> 
-   <td colname="col2"> <p> Sono stati aggiunti al Experience Cloud Debugger test <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> di</a> Platform Auditor </p> </td> 
+   <td colname="col2"> <p> A Experience Cloud Debugger sono stati aggiunti i <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">test di Platform Auditor</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Il Experience Cloud Debugger ora visualizza AAM risposte </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger ora visualizza le risposte di AAM. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 85%
 
 * È stato corretto un problema a causa del quale il piè di pagina nascondeva il contenuto nella parte inferiore della pagina.
 
-* È stato aggiornato il piè di pagina dell&#39;Experience Cloud Debugger
+* È stato aggiornato il piè di pagina di Experience Cloud Debugger.
 * È stato risolto un problema per cui per Target veniva utilizzata terminologia obsoleta.
 
 ## Versione 0.0.809 del 28 febbraio 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -88,7 +88,7 @@ ht-degree: 85%
 
 ## Miglioramenti {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
 
-* È stata risolta una potenziale vulnerabilità causata da un input utente non bonificato
+* È stata risolta una potenziale vulnerabilità causata da un input utente non bonificato.
 
 ## Correzioni di bug {#section-556417ff055848c1bf037354dd43cbd0}
 
@@ -96,7 +96,7 @@ ht-degree: 85%
 
 * È stato risolto un problema in Inserisci Launch in modo dinamico, a causa del quale l’interfaccia utente sembrava mappare un codice da incorporare diverso quando non lo era.
 * È stato risolto un problema in Inserisci Launch in modo dinamico a causa del quale continuava a essere visualizzato un URL errato.
-* È stato risolto un problema per cui il Experience Cloud Debugger continuava a sostituire i codici da incorporare anche quando la finestra del Experience Cloud Debugger era chiusa
+* È stato risolto un problema a causa del quale Experience Cloud Debugger continuava a sostituire i codici da incorporare anche quando la finestra di Experience Cloud Debugger era chiusa.
 
 ## Versione 0.0.806 del 10 settembre 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 85%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Inserisci Launch in modo dinamico </p> </td> 
-   <td colname="col2"> <p>Dalla scheda Strumenti, è possibile inserire dinamicamente  Adobe Experience Platform Launch su qualsiasi pagina per eseguire il test su una pagina in cui non è installato Platform Launch. </p> </td> 
+   <td colname="col2"> <p>Dalla scheda Strumenti, è possibile inserire in modo dinamico Adobe Experience Platform Launch in qualsiasi pagina per eseguire un test su una pagina in cui non è installato Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Miglioramenti di Target </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 85%
 * È stato risolto un problema per il quale la scheda Experience Cloud non veniva aggiornata.
 
 * È stato risolto un problema che causava la visualizzazione di “Media Optimizer” nella riga Soluzione della scheda Rete, invece del nome corrente di “Advertising Cloud”.
-* È stato risolto un problema che causava l&#39;inserimento del Experience Cloud Debugger _satellite in ogni pagina
+* È stato risolto un problema a causa del quale Experience Cloud Debugger inseriva _satellite in ogni pagina.
 
 ## Versione 0.0.803 del 10 agosto 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ La versione 0.0.803 non include modifiche rivolte ai clienti.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Collegamento di Auditor piattaforma nella scheda Strumenti </p> </td> 
-   <td colname="col2"> <p>È stato aggiunto un collegamento a Platform Auditor dal Experience Cloud Debugger </p> </td> 
+   <td colname="col1"> <p>Collegamento a Platform Auditor nella scheda Strumenti </p> </td> 
+   <td colname="col2"> <p>È stato aggiunto un collegamento a Platform Auditor da Experience Cloud Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Schede compresse </p> </td> 
