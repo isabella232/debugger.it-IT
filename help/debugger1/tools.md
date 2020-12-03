@@ -5,9 +5,9 @@ seo-description: Schermata Strumenti di Experience Cloud Debugger
 seo-title: Strumenti
 title: Strumenti
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 100%
 
@@ -84,4 +84,4 @@ Puoi inserire in modo dinamico Adobe Experience Platform Launch o DTM in qualsia
 
 Nel video seguente viene illustrato come utilizzare l’estensione Debugger con Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
