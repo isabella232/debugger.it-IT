@@ -5,9 +5,9 @@ seo-description: Utilizzo delle schede Soluzione in Adobe Debugger
 seo-title: Schede Soluzione in Adobe Debugger
 title: Schede Soluzione
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 100%
 
@@ -88,11 +88,11 @@ Per abilitare Mbox Trace, devi avere una scheda Chrome aperta autenticata in Exp
 
 Il seguente video mostra la funzionalità di Target generale:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 Il seguente video mostra la traccia Mbox:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
