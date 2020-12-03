@@ -5,9 +5,9 @@ seo-description: Istruzioni per l’installazione di Experience Cloud Debugger
 seo-title: Installa Experience Cloud Debugger
 title: Installa Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ Dopo che hai installato l’estensione, viene aggiunta un’icona alla barra del
 
 ![](assets/start-icon.jpg)
 
->[!VIDEO](https://video.tv.adobe.com/v/23114t2/?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)
