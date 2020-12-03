@@ -5,9 +5,9 @@ seo-description: 'Documentazione tecnica per l’estensione Adobe Experience Pla
 seo-title: Estensione Adobe Experience Platform Debugger per Chrome e Firefox
 title: Estensione Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 100%
 
@@ -42,4 +42,4 @@ Usa Platform Debugger per raccogliere informazioni utili per comprendere come ve
 
 ## Esercitazione video
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
