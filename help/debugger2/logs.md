@@ -5,9 +5,9 @@ seo-description: Schermata Registri di Experience Platform Debugger
 seo-title: Registri
 title: Registri
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 100%
 
