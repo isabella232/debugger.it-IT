@@ -1,18 +1,17 @@
 ---
 description: Experience Platform Debugger esamina le pagine web e aiuta a individuare i problemi relativi all’implementazione delle soluzioni Experience Cloud.
-keywords: debugger;experience Platform Debugger extension;chrome;extension
+keywords: debugger;estensione Experience Platform Debugger;chrome;estensione
 seo-description: 'Documentazione tecnica per l’estensione Adobe Experience Platform Debugger per Chrome e Firefox: esamina le pagine web e riconosci i problemi relativi alle implementazioni delle soluzioni Experience Cloud'
 seo-title: Estensione Adobe Experience Platform Debugger per Chrome e Firefox
 title: Estensione Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
+source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 100%
+source-wordcount: '312'
+ht-degree: 95%
 
 ---
-
 
 # (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
@@ -24,7 +23,7 @@ ht-degree: 100%
 
 Utilizza Platform Debugger con le altre soluzioni di attivazione Adobe per un flusso di lavoro come indicato di seguito:
 
-1. Utilizza [Launch](https://docs.adobe.com/content/help/it-IT/launch/using/overview.html) o [DTM](https://docs.adobe.com/content/help/it-IT/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/core-services/interface/experience-cloud.html) nelle tue pagine.
+1. Utilizza [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) o [DTM](https://docs.adobe.com/content/help/it-IT/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/core-services/interface/experience-cloud.html) nelle tue pagine.
 
 1. Utilizza [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/it-IT/auditor/using/overview.html) per testare le tue implementazioni.
 1. Utilizza Adobe Experience Platform Debugger per eseguire il debug dei problemi rilevati da Auditor o per esaminare altre informazioni sulle implementazioni.
