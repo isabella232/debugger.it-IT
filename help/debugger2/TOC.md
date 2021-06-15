@@ -2,15 +2,14 @@
 cloud: Experience Platform
 product: experience platform
 sub-product: experience platform debugger
-solution: Experience Platform, Data Collection
+solution: Experience Platform, Data Collection, Debugger
 audience: end-user
 user-guide-title: Aiuto di Experience Platform Debugger
 user-guide-description: Esamina le pagine web per individuare eventuali problemi relativi alle implementazioni di Experience Platform.
 breadcrumb-title: Guida di Platform Debugger
 index: true
-translation-type: ht
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: ht
+source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -26,6 +25,6 @@ ht-degree: 100%
 + [Schermata Riepilogo](summary.md)
 + [Soluzioni](solutions.md)
 + [Registri](logs.md)
-+ [Rete](network.md)
++ [Rete ](network.md)
 + [Eventi](events.md)
 + [Auditor](auditor.md)
