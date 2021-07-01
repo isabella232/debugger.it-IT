@@ -1,22 +1,21 @@
 ---
 description: Schermata Informazioni di Rete di Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: debugger;estensione experience cloud debugger;chrome;estensione;rete;informazioni
 seo-description: Schermata Informazioni di Rete di Experience Cloud Debugger
 seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '228'
 ht-degree: 100%
 
 ---
 
+# Informazioni di Rete{#network-information}
 
-# Informazioni di Rete {#network-information}
-
-Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Network]**.
+Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Rete]**.
 
 La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
 
@@ -28,7 +27,7 @@ La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience C
 >
 >Al momento, non tutti i parametri passati nelle chiamate della soluzione (ad esempio, variabili di contesto di Analytics, parametri personalizzati di Target o ID cliente del servizio Experience Cloud ID) sono visibili nella schermata Rete.
 
-Per visualizzare tutte le informazioni, seleziona **[!UICONTROL All]**.
+Per visualizzare tutte le informazioni, seleziona **[!UICONTROL Tutto]**.
 
 Puoi anche filtrare le informazioni per soluzione. Seleziona le soluzioni da visualizzare. Puoi visualizzare più soluzioni contemporaneamente. I filtri selezionati per la soluzione sono evidenziati.
 
@@ -41,4 +40,3 @@ Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla fin
 Utilizza l’icona nella parte superiore di ciascuna colonna per copiare l’URL della chiamata server negli Appunti, dove puoi incollarlo in un altro documento a scopo di riferimento o debug.
 
 ![](assets/copy.jpg)
-
