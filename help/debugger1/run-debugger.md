@@ -1,20 +1,19 @@
 ---
 description: Esecuzione di Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+keywords: debugger;estensione experience cloud debugger;chrome;estensione;riepilogo;cancellare;richieste;schermata di riepilogo;soluzioni;informazioni;analytics;target;dtm;audience manager;launch;servizio id
 seo-description: Esecuzione di Experience Cloud Debugger
 seo-title: Schermata Riepilogo
 title: Schermata Riepilogo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1047'
-ht-degree: 100%
+source-wordcount: '1080'
+ht-degree: 97%
 
 ---
 
-
-# Schermata Riepilogo {#summary-screen}
+# Schermata Riepilogo{#summary-screen}
 
 Per eseguire Adobe Experience Cloud Debugger, fai clic sull’icona dell’estensione nella barra delle estensioni, quindi apri la pagina da esaminare in Chrome.
 
@@ -26,7 +25,7 @@ Viene visualizzata la schermata Riepilogo di Experience Cloud Debugger.
 
 Questa schermata mostra una miniatura della pagina, nonché l’URL e il titolo di quest’ultima. Contiene, inoltre, informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, “AppMeasurement v2.9”) e gli identificatori dell’account (come l’ID suite di rapporti di Analytics, il codice client di Target, l’ID partner di Audience Manager e così via).
 
-I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. Per reimpostarli, fai clic su **[!UICONTROL Clear All Requests]** nella relativa scheda.
+I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. Per azzerarli, fai clic su **[!UICONTROL Cancella tutte le richieste]** nella relativa scheda.
 
 Ad esempio, l’immagine seguente mostra informazioni su Adobe Target. Per esporre i dettagli dell’attività riportati di seguito senza autenticazione, devi implementare il listener di eventi Debugging nel codice o nel gestore di tag e devi attivare i [token di risposta](https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html) necessari nell’interfaccia utente di Target.
 
@@ -34,7 +33,7 @@ Ad esempio, l’immagine seguente mostra informazioni su Adobe Target. Per espor
 
 ## Eseguire un audit in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Puoi utilizzare Platform Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Platform Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Platform Auditor, fai clic su **[!UICONTROL Run Multi-Page Audit Now]**.
+Puoi utilizzare Platform Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Platform Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Platform Auditor, fai clic su **[!UICONTROL Esegui controllo multipagina ora]**.
 
 ## Informazioni visualizzate in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -146,7 +145,7 @@ Experience Cloud Debugger mostra le seguenti informazioni per ciascuna soluzione
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data build </p> </td> 
-   <td colname="col2"> <p>Data della build della <a href="https://docs.adobe.com/content/help/it-IT/dtm/using/library-management.html" format="html" scope="external">libreria</a> di Platform Launch </p> </td> 
+   <td colname="col2"> <p>Data della build della <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external">libreria</a> di Platform Launch </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
@@ -169,7 +168,7 @@ Experience Cloud Debugger mostra le seguenti informazioni per ciascuna soluzione
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versione </p> </td> 
-   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/it-IT/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
+   <td colname="col2"> <p>Versione della libreria<a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> ID visitatore</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -192,32 +191,31 @@ Experience Cloud Debugger mostra le seguenti informazioni per ciascuna soluzione
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome mbox </p> </td> 
-   <td colname="col2"> <p>Il nome di una mbox intorno a una <a href="https://docs.adobe.com/content/help/it-IT/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> posizione</a> sulla pagina. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Il nome di una mbox intorno a una <a href="https://docs.adobe.com/content/help/it-IT/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> posizione</a> sulla pagina. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome attività </p> </td> 
-   <td colname="col2"> <p>Il nome della <a href="https://docs.adobe.com/content/help/it-IT/target/using/activities/activities.html" format="html" scope="external"> campagna o dell’attività</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Il nome della <a href="https://docs.adobe.com/content/help/it-IT/target/using/activities/activities.html" format="html" scope="external"> campagna o dell’attività</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Attività ID </p> </td> 
-   <td colname="col2"> <p>ID dell’attività Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>ID dell’attività Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome ricetta </p> </td> 
-   <td colname="col2"> <p>Il nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/experiences.html" format="html" scope="external"> esperienza</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Il nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/experiences.html" format="html" scope="external"> esperienza</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID ricetta </p> </td> 
-   <td colname="col2"> <p>ID della ricetta Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>ID della ricetta Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Offerta </p> </td> 
-   <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external"> offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>Nome dell’<a href="https://docs.adobe.com/content/help/it-IT/target/using/experiences/offers/manage-content.html" format="html" scope="external"> offerta</a> Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID offerta </p> </td> 
-   <td colname="col2"> <p>ID dell’offerta Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
+   <td colname="col2"> <p>ID dell’offerta Target. Disponibile senza autenticazione solo se implementi il listener di eventi Debugging nel codice o nel gestore di tag e attivi i <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> token di risposta necessari</a> nell’interfaccia utente di Target. </p> </td> 
   </tr> 
  </tbody> 
 </table>
-
