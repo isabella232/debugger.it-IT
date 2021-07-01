@@ -9,7 +9,7 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
 
 Utilizza Platform Debugger con le altre soluzioni di attivazione Adobe per un flusso di lavoro come indicato di seguito:
 
-1. Utilizza [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) o [DTM](https://docs.adobe.com/content/help/it-IT/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/core-services/interface/experience-cloud.html) nelle tue pagine.
+1. Utilizza [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=it) o [DTM](https://docs.adobe.com/content/help/it-IT/dtm/using/dtm-home.html) per inserire il codice necessario per attivare le soluzioni [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/core-services/interface/experience-cloud.html) nelle tue pagine.
 
 1. Utilizza [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/it-IT/auditor/using/overview.html) per testare le tue implementazioni.
 1. Utilizza Adobe Experience Platform Debugger per eseguire il debug dei problemi rilevati da Auditor o per esaminare altre informazioni sulle implementazioni.
@@ -32,7 +32,7 @@ Non è necessario eseguire i passaggi di cui sopra in tale ordine, ma si tratta 
 
 È possibile eseguire Platform Debugger su qualsiasi pagina web; tuttavia, i dati non pubblici sono disponibili nell’estensione solo se sei autenticato in Experience Cloud in una delle schede Chrome aperte.
 
-## Casi d’uso {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Casi di utilizzo {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Usa Platform Debugger per raccogliere informazioni utili per comprendere come vengono implementate le soluzioni Experience Cloud. Esempio:
 
