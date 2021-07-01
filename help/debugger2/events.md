@@ -1,19 +1,18 @@
 ---
 description: Schermata Eventi di Experience Platform Debugger
-keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+keywords: debugger;estensione experience platform debugger;chrome;estensione;eventi;dtm;target
 seo-description: Schermata Eventi di Experience Platform Debugger
 seo-title: Eventi
 title: Eventi
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '181'
+ht-degree: 87%
 
 ---
 
-
-# Eventi {#events}
+# Eventi{#events}
 
 >[!IMPORTANT]
 >
@@ -40,10 +39,10 @@ Per abilitare il tracciamento delle modifiche al livello dei dati nella sequenza
 
    ![](assets/event-datalayer.jpg)
 
-1. Fai clic su **[!UICONTROL Save]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
 I dettagli delle modifiche mostrano tutti gli elementi che sono stati eliminati o aggiunti al livello dati. Puoi fare clic su **{}** per avere più informazioni sul livello dati.
 
 ## Scarica le informazioni sull’evento
 
-Fai clic su **[!UICONTROL Download]** per scaricare un file Excel con le informazioni sulle chiamate effettuate da una pagina.
+Fai clic su **[!UICONTROL Scarica]** per scaricare un file Excel con informazioni sulle chiamate effettuate dalla pagina.
