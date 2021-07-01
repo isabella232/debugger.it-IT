@@ -1,18 +1,17 @@
 ---
 description: Schermata Rete di Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;rete;informazioni
 seo-description: Schermata Rete di Experience Platform Debugger
 seo-title: Informazioni di Rete
 title: Informazioni di Rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '241'
+ht-degree: 87%
 
 ---
-
 
 # Rete {#network}
 
@@ -20,7 +19,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
 
-Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Network]**.
+Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Rete]**.
 
 La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
 
@@ -36,7 +35,7 @@ Per cambiare le informazioni in base alla soluzione, seleziona la soluzione da v
 
 ![](assets/network-analytics.jpg)
 
-Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL Network]**.
+Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL .Rete]**
 
 Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla finestra di visualizzazione espansa, puoi copiare le informazioni visualizzate negli Appunti.
 
@@ -46,6 +45,6 @@ Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla fin
 
 ![](assets/copy.jpg)-->
 
-Per cancellare l’elenco, fai clic su **[!UICONTROL Remove Events]**.
+Per cancellare l&#39;elenco, fare clic su **[!UICONTROL Rimuovi eventi]**.
 
-Per scaricare un file Excel con le informazioni di questa schermata, fai clic su **[!UICONTROL Download]**.
+Per scaricare un file Excel contenente le informazioni su questa schermata, fai clic su **[!UICONTROL Scarica]**.
