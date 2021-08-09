@@ -8,8 +8,8 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1080'
-ht-degree: 97%
+source-wordcount: '1069'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Viene visualizzata la schermata Riepilogo di Experience Cloud Debugger.
 
 Questa schermata mostra una miniatura della pagina, nonché l’URL e il titolo di quest’ultima. Contiene, inoltre, informazioni su ciascuna soluzione Adobe Experience Cloud. Le informazioni visualizzate variano in base alla soluzione, ma in genere includono informazioni quali la libreria e la versione della soluzione (ad esempio, “AppMeasurement v2.9”) e gli identificatori dell’account (come l’ID suite di rapporti di Analytics, il codice client di Target, l’ID partner di Audience Manager e così via).
 
-I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. Per azzerarli, fai clic su **[!UICONTROL Cancella tutte le richieste]** nella relativa scheda.
+I numeri in blu accanto alle schede nella parte superiore della finestra mostrano il numero di chiamate server effettuate. Per reimpostarli, fai clic su **[!UICONTROL Clear All Requests]** nella relativa scheda.
 
 Ad esempio, l’immagine seguente mostra informazioni su Adobe Target. Per esporre i dettagli dell’attività riportati di seguito senza autenticazione, devi implementare il listener di eventi Debugging nel codice o nel gestore di tag e devi attivare i [token di risposta](https://docs.adobe.com/content/help/it-IT/target/using/administer/response-tokens.html) necessari nell’interfaccia utente di Target.
 
@@ -33,7 +33,7 @@ Ad esempio, l’immagine seguente mostra informazioni su Adobe Target. Per espor
 
 ## Eseguire un audit in Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Puoi utilizzare Platform Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Platform Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Platform Auditor, fai clic su **[!UICONTROL Esegui controllo multipagina ora]**.
+Puoi utilizzare Platform Auditor per eseguire una serie di controlli sulla pagina. Per eseguire Platform Auditor, fai clic su **[!UICONTROL Auditor]** nel menu principale, quindi fai clic su **[!UICONTROL Audit Page Now]**. Per aprire Platform Auditor, fai clic su **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Informazioni visualizzate in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
