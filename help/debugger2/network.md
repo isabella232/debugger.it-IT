@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 87%
+source-wordcount: '236'
+ht-degree: 96%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 >
 >Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
 
-Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Rete]**.
+Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Network]**.
 
 La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
 
@@ -35,7 +35,7 @@ Per cambiare le informazioni in base alla soluzione, seleziona la soluzione da v
 
 ![](assets/network-analytics.jpg)
 
-Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL .Rete]**
+Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL Network]**.
 
 Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla finestra di visualizzazione espansa, puoi copiare le informazioni visualizzate negli Appunti.
 
@@ -45,6 +45,6 @@ Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla fin
 
 ![](assets/copy.jpg)-->
 
-Per cancellare l&#39;elenco, fare clic su **[!UICONTROL Rimuovi eventi]**.
+Per cancellare l’elenco, fai clic su **[!UICONTROL Remove Events]**.
 
-Per scaricare un file Excel contenente le informazioni su questa schermata, fai clic su **[!UICONTROL Scarica]**.
+Per scaricare un file Excel con le informazioni di questa schermata, fai clic su **[!UICONTROL Download]**.
