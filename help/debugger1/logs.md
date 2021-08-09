@@ -8,7 +8,7 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ La schermata Registri fornisce informazioni specifiche per le implementazioni DT
 
 ![](assets/logs.jpg)
 
-Alcuni elementi di registro di DTM includono l’opzione Mostra codice nel messaggio. Fai clic su **[!UICONTROL Mostra Codice]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
+Alcuni elementi di registro di DTM includono l’opzione Mostra codice nel messaggio. Fai clic su **[!UICONTROL Show Code]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
