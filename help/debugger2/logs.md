@@ -8,8 +8,8 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 71%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -25,19 +25,19 @@ La schermata dei registri fornisce informazioni specifiche sulle implementazioni
 
 La schermata Registri mostra le informazioni in quattro colonne:
 
-**[!UICONTROL Soluzioni]:** visualizza icone per la soluzione di Experience Cloud interessata dall&#39;elemento registrato. Posiziona il puntatore sull’icona per leggere la descrizione.
+**[!UICONTROL Solutions]:** visualizza icone per la soluzione Experience Cloud interessata dall’elemento registrato. Posiziona il puntatore sull’icona per leggere la descrizione.
 
-**[!UICONTROL Si è verificato in]:** mostra quando si è verificato il problema registrato durante la sessione.
+**[!UICONTROL Occurred at]:** mostra quando si è verificato il problema registrato durante la sessione.
 
-**[!UICONTROL Livello di registro]:** mostra la gravità del problema. La gravità è indicata da uno dei seguenti livelli:
+**[!UICONTROL Log level]:** mostra la gravità del problema. La gravità è indicata da uno dei seguenti livelli:
 
 * Registro
 * Info
 * Avvisi
 * Errori
 
-**[!UICONTROL Messaggio di log]:** descrive il problema.
+**[!UICONTROL Log message]:** descrive il problema.
 
-Alcuni messaggi di registro includono l’opzione Mostra codice. Fai clic su **[!UICONTROL Mostra Codice]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
+Alcuni messaggi di registro includono l’opzione Mostra codice. Fai clic su **[!UICONTROL Show Code]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
 
-Per cancellare il registro, fai clic su **[!UICONTROL Rimuovi registri]**.
+Per cancellare il registro, fai clic su **[!UICONTROL Remove Logs]**.
