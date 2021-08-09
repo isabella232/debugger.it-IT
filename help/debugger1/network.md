@@ -8,14 +8,14 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
 
 # Informazioni di Rete{#network-information}
 
-Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Rete]**.
+Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Network]**.
 
 La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
 
@@ -27,7 +27,7 @@ La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience C
 >
 >Al momento, non tutti i parametri passati nelle chiamate della soluzione (ad esempio, variabili di contesto di Analytics, parametri personalizzati di Target o ID cliente del servizio Experience Cloud ID) sono visibili nella schermata Rete.
 
-Per visualizzare tutte le informazioni, seleziona **[!UICONTROL Tutto]**.
+Per visualizzare tutte le informazioni, seleziona **[!UICONTROL All]**.
 
 Puoi anche filtrare le informazioni per soluzione. Seleziona le soluzioni da visualizzare. Puoi visualizzare più soluzioni contemporaneamente. I filtri selezionati per la soluzione sono evidenziati.
 
