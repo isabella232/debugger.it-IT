@@ -7,8 +7,8 @@ title: Eventi
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 87%
+source-wordcount: '179'
+ht-degree: 94%
 
 ---
 
@@ -39,10 +39,10 @@ Per abilitare il tracciamento delle modifiche al livello dei dati nella sequenza
 
    ![](assets/event-datalayer.jpg)
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
 I dettagli delle modifiche mostrano tutti gli elementi che sono stati eliminati o aggiunti al livello dati. Puoi fare clic su **{}** per avere più informazioni sul livello dati.
 
 ## Scarica le informazioni sull’evento
 
-Fai clic su **[!UICONTROL Scarica]** per scaricare un file Excel con informazioni sulle chiamate effettuate dalla pagina.
+Fai clic su **[!UICONTROL Download]** per scaricare un file Excel con le informazioni sulle chiamate effettuate da una pagina.
