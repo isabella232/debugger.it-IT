@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 98%
+source-wordcount: '1085'
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ In questa schermata vengono visualizzate tutte le richieste dall’apertura di A
 
 **Account collegati (legacy)**
 
-Fai clic su **[!UICONTROL Collega account]**, quindi immetti le informazioni richieste per collegare un account Analytics a Platform Debugger.
+Fai clic su **[!UICONTROL Link Account]**, quindi immetti le informazioni richieste per collegare un account Analytics a Platform Debugger.
 
 >[!NOTE]
 >
@@ -63,11 +63,11 @@ Per la maggior parte delle implementazioni di Analytics, le informazioni sulle r
 
 Utilizza la scheda Target per visualizzare i dettagli delle richieste di [Target](https://docs.adobe.com/content/help/it-IT/target/using/target-home.html) o di [traccia di Mbox](https://docs.adobe.com/content/help/it-IT/target/using/activities/troubleshoot-activities/content-trouble.html).
 
-Fai clic su **[!UICONTROL Richieste]**, quindi espandi l’ambiente per visualizzare le informazioni su Target.
+Fai clic su **[!UICONTROL Requests]**, quindi espandi l’ambiente per visualizzare le informazioni su Target.
 
 ![](assets/target-requests.jpg)
 
-Fai clic su **[!UICONTROL Cancella tutte le richieste]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
+Fai clic su **[!UICONTROL Clear All Requests]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
 
 Puoi inoltre utilizzare il filtro Target per [abilitare la traccia MBox a scopo di debug Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
@@ -99,7 +99,7 @@ Utilizza la scheda [Audience Manager](https://docs.adobe.com/content/help/it-IT/
 
 ![](assets/audience-manager.jpg)
 
-Fai clic su **[!UICONTROL Cancella tutti gli eventi]** per ripristinare le informazioni visualizzate. I nuovi eventi verranno visualizzati nel momento in cui si verificano.
+Fai clic su **[!UICONTROL Clear All Events]** per reimpostare le informazioni visualizzate. I nuovi eventi verranno visualizzati nel momento in cui si verificano.
 
 **Sincronizzazione ID**
 
@@ -113,14 +113,14 @@ Per ulteriori informazioni, consulta [Sincronizzazione ID per trasferimenti dati
 
 Utilizza la scheda Advertising Cloud per visualizzare le richieste di Advertising Cloud.
 
-Fai clic su **[!UICONTROL Richieste]**, quindi espandi l’ambiente per visualizzare le informazioni su Advertising Cloud.
+Fai clic su **[!UICONTROL Requests]**, quindi espandi l’ambiente per visualizzare le informazioni su Advertising Cloud.
 
-Fai clic su **[!UICONTROL Cancella tutte le richieste]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
+Fai clic su **[!UICONTROL Clear All Requests]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
 
 ## Servizio Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Utilizza la scheda Servizio Experience Cloud ID per visualizzare le richieste del [servizio Experience Cloud ID](https://docs.adobe.com/content/help/it-IT/id-service/using/home.html).
 
-Fai clic su **[!UICONTROL Richieste]**, quindi espandi l’ambiente per visualizzare informazioni sul servizio Experience Cloud ID.
+Fai clic su **[!UICONTROL Requests]**, quindi espandi l’ambiente per visualizzare informazioni sul servizio Experience Cloud ID.
 
-Fai clic su **[!UICONTROL Cancella tutte le richieste]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
+Fai clic su **[!UICONTROL Clear All Requests]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
