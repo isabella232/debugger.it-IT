@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ Nella schermata Strumenti, puoi attivare o disattivare vari strumenti per la sol
 
 ![](assets/tools.jpg)
 
-Puoi inserire in modo dinamico Adobe Experience Platform Launch o DTM in qualsiasi pagina per eseguire un test su una pagina in cui non è installato Platform Launch o DTM. Fai clic sull’icona **[!UICONTROL Codice di incorporamento]**, poi digita il [codice di incorporamento](https://docs.adobe.com/content/help/it-IT/dtm/using/client-side/deployment.html) e fai clic su **[!UICONTROL Salva]**.
+Puoi inserire in modo dinamico Adobe Experience Platform Launch o DTM in qualsiasi pagina per eseguire un test su una pagina in cui non è installato Platform Launch o DTM. Fai clic sull’icona **[!UICONTROL Embed Code]**, digita il [codice di incorporamento](https://docs.adobe.com/content/help/it-IT/dtm/using/client-side/deployment.html) e fai clic su **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
