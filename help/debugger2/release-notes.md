@@ -6,16 +6,39 @@ seo-title: Release Notes
 title: Note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 016054f3cd47b9089afbdfbe75c5beec6945ce56
+source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 12%
+source-wordcount: '234'
+ht-degree: 10%
 
 ---
 
 # Note sulla versione{#release-notes}
 
 ## Note sulla versione {#topic-a92c3eb799b74e7fa404af8af5efb215}
+
+## Versione 1.2.0 del 26 ottobre 2021
+
+## Nuove funzionalità
+
+<table id="table">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> Funzione </th>
+   <th colname="col2" class="entry"> Descrizione </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colname="col1"> <p> Eventi da tutte le schede del browser visibili nella visualizzazione di rete </p> </td>
+   <td colname="col2"> <p> Mostra eventi da tutte le schede del browser nella visualizzazione di rete. Per visualizzare solo gli eventi dalla scheda corrente, fai clic sull’icona Blocca nell’angolo in basso a destra del debugger.</p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p> Modifiche al branding </p> </td>
+   <td colname="col2"> <p> AEP Web SDK diventa Adobe Experience Platform Web SDK e Launch diventa Adobe Experience Platform Tags.</p> </td>
+  </tr>
+ </tbody>
+</table>
 
 ## Versione 1.1.0 del 5 ottobre 2021
 
@@ -31,7 +54,7 @@ ht-degree: 12%
  <tbody>
   <tr>
    <td colname="col1"> <p> Visualizzazione del debug remoto </p> </td>
-   <td colname="col2"> <p> Organizza gli eventi di debug remoto in un grafico a flusso visivo nella sezione Adobe Experience Platform Web SDK &gt; Edge Transactions . Inoltre, richiedi all’organizzazione Adobe Experience Platform Web SDK IMS utilizzata nella pagina di corrispondere all’organizzazione registrata all’avvio di una nuova sessione di debug remoto. Filtrare le transazioni edge dalla scheda connessa.</p> <p> <b>Nota:</b> i registri di traccia di Target sono ancora disponibili nella sezione Registri &gt; Edge .</p> </td>
+   <td colname="col2"> <p> Organizza gli eventi di debug remoto in un grafico a flusso visivo nella sezione Adobe Experience Platform Web SDK &gt; Edge Transactions . Inoltre, richiedi all’organizzazione Adobe Experience Platform Web SDK IMS utilizzata nella pagina di corrispondere all’organizzazione registrata all’avvio di una nuova sessione di debug remoto. Filtrare le transazioni edge dalla scheda connessa.</p> <p> <b>Nota:</b> I registri di traccia di Target sono ancora disponibili nella sezione Registri &gt; Edge .</p> </td>
   </tr>
   <tr>
    <td colname="col1"> <p> Miglioramenti alla sezione di configurazione di Adobe Experience Platform Web SDK </p> </td>
