@@ -6,10 +6,10 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Estensione Adobe Experience Cloud Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 85%
+source-wordcount: '262'
+ht-degree: 84%
 
 ---
 
@@ -24,15 +24,14 @@ L’[estensione Adobe Experience Cloud Debugger per Chrome](https://chrome.googl
 Utilizza l’estensione Adobe Experience Cloud Debugger con le altre soluzioni di Adobe Activation per un flusso di lavoro come indicato di seguito:
 
 1. Utilizzo [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=it) per inserire il codice che attiva [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) sulle pagine.
-
-1. Utilizza [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/it-IT/auditor/using/overview.html) per testare le tue implementazioni.
+1. Utilizza Adobe Experience Platform Auditor per testare le tue implementazioni.
 1. Utilizza l’estensione Adobe Experience Cloud Debugger per eseguire il debug dei problemi rilevati da Auditor o per esaminare altre informazioni sulle implementazioni.
 
 Non è necessario eseguire i passaggi di cui sopra in tale ordine, ma si tratta della procedura comune.
 
 Anche se puoi eseguire il debugger su qualsiasi pagina web, i dati non pubblici sono disponibili nell’estensione solo se sei autenticato in Experience Cloud in una delle schede Chrome aperte.
 
-## Casi d’uso {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Casi di utilizzo {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Usa Debugger per raccogliere informazioni utili per comprendere come vengono implementate le soluzioni Experience Cloud. Ad esempio:
 
