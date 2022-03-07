@@ -6,7 +6,7 @@ seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Estensione Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 27%
@@ -24,7 +24,7 @@ Estensione Adobe Experience Platform Debugger per [Chrome](https://chrome.google
 Puoi utilizzare Platform Debugger con le altre soluzioni di attivazione di Adobe per eseguire le seguenti operazioni:
 
 1. Utilizzo [tag](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=it) nell’interfaccia utente di raccolta dati per inserire il codice che attiva [Adobe Experience Cloud](https://docs.adobe.com/content/help/it-IT/core-services/interface/experience-cloud.html) prodotti nelle pagine.
-1. Utilizza la [**[!UICONTROL Auditor]**scheda](./auditor.md) in Platform Debugger per testare le implementazioni.
+1. Utilizza la [**[!UICONTROL Auditor]**scheda](./auditor/overview.md) in Platform Debugger per testare le implementazioni.
 1. Utilizza strumenti basati su eventi e specifici per soluzioni in Platform Debugger per eseguire il debug dei problemi rilevati da Auditor o per esaminare altre informazioni sulle implementazioni.
 
 >[!NOTE]
