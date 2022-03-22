@@ -1,14 +1,12 @@
 ---
 description: Note sulla versione di Experience Platform Debugger
 keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;note sulla versione
-seo-description: Experience Platform Debugger release notes
-seo-title: Release Notes
-title: Note sulla versione
+title: Debugger Experience Platform note sulla versione
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 3cff0a4199d58fa18b89af42d77813f38f30b512
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '290'
 ht-degree: 3%
 
 ---

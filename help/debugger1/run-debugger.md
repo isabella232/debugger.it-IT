@@ -1,15 +1,15 @@
 ---
 description: Esecuzione di Experience Cloud Debugger
 keywords: debugger;estensione experience cloud debugger;chrome;estensione;riepilogo;cancellare;richieste;schermata di riepilogo;soluzioni;informazioni;analytics;target;dtm;audience manager;launch;servizio id
-seo-description: Esecuzione di Experience Cloud Debugger
-seo-title: Schermata Riepilogo
-title: Schermata Riepilogo
+seo-description: Running Experience Cloud Debugger
+seo-title: Summary Screen
+title: Experience Cloud Debugger a schermo sintetico
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1069'
-ht-degree: 100%
+source-wordcount: '1066'
+ht-degree: 99%
 
 ---
 
