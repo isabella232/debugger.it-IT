@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: Scheda Auditor
 description: Scopri come utilizzare la scheda Auditor in Adobe Experience Platform Debugger per testare le implementazioni Adobe Experience Cloud.
 keywords: debugger;estensione experience platform debugger;chrome;estensione;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 43%
+source-wordcount: '358'
+ht-degree: 40%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
+# Scheda Auditor
 
 In Adobe Experience Platform Debugger puoi utilizzare la funzione **[!UICONTROL Auditor]** per eseguire una serie di test di controllo sulla pagina.
 

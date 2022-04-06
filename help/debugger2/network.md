@@ -1,27 +1,21 @@
 ---
-description: Schermata Rete di Experience Platform Debugger
+title: Scheda Rete
+description: Scopri come utilizzare la scheda Rete in Adobe Experience Platform Debugger.
 keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;rete;informazioni
-seo-description: Schermata Rete di Experience Platform Debugger
-seo-title: Informazioni di Rete
-title: Informazioni di Rete
+seo-description: Experience Platform Debugger Network screen
+seo-title: Network Tab
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 96%
+source-wordcount: '215'
+ht-degree: 59%
 
 ---
 
-# Rete {#network}
+# Scheda Rete
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
-
-Per visualizzare le informazioni di Rete, fai clic su **[!UICONTROL Network]**.
-
-La schermata Rete raccoglie tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
+La **Rete** tab aggrega tutte le chiamate della soluzione Adobe Experience Cloud effettuate sulla pagina e le visualizza in ordine da sinistra a destra. I parametri standard vengono etichettati automaticamente con nomi descrittivi e disposti per raggruppare parametri comuni sullo stesso ruolo.
 
 ![](assets/network.jpg)
 
@@ -35,9 +29,9 @@ Per cambiare le informazioni in base alla soluzione, seleziona la soluzione da v
 
 ![](assets/network-analytics.jpg)
 
-Per visualizzare di nuovo tutte le soluzioni, fai clic su **[!UICONTROL Network]**.
+Per visualizzare di nuovo tutte le soluzioni, seleziona **[!UICONTROL Network]**
 
-Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla finestra di visualizzazione espansa, puoi copiare le informazioni visualizzate negli Appunti.
+Seleziona un elemento nella visualizzazione Rete per visualizzare una visualizzazione espansa. Dalla finestra di visualizzazione espansa, puoi copiare le informazioni visualizzate negli Appunti.
 
 ![](assets/network-expand.jpg)
 
@@ -45,6 +39,6 @@ Fai clic su un elemento nella visualizzazione di Rete per ingrandirlo. Dalla fin
 
 ![](assets/copy.jpg)-->
 
-Per cancellare l’elenco, fai clic su **[!UICONTROL Remove Events]**.
+Per cancellare l’elenco, seleziona **[!UICONTROL Remove Events]**.
 
-Per scaricare un file Excel con le informazioni di questa schermata, fai clic su **[!UICONTROL Download]**.
+Per scaricare un file Excel con le informazioni di questa schermata, seleziona **[!UICONTROL Download]**.

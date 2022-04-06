@@ -1,32 +1,28 @@
 ---
-description: Schermata Eventi di Experience Platform Debugger
+description: Scopri come utilizzare la scheda Eventi in Adobe Experience Platform Debugger.
 keywords: debugger;estensione experience platform debugger;chrome;estensione;eventi;dtm;target
-seo-description: Schermata Eventi di Experience Platform Debugger
-seo-title: Eventi
-title: Eventi
+seo-description: Experience Platform Debugger Events Screen
+seo-title: Events
+title: Scheda Eventi
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 94%
+source-wordcount: '165'
+ht-degree: 42%
 
 ---
 
-# Eventi{#events}
+# Scheda Eventi
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
-
-La schermata Eventi mostra una vista grafica degli eventi che si verificano, disposti secondo una sequenza temporale.
+La **Eventi** La scheda fornisce una visualizzazione grafica degli eventi che si verificano, visualizzati su una timeline.
 
 ![](assets/events.jpg)
 
-Per ogni evento, nella sequenza temporale viene visualizzata un’icona per la soluzione applicabile. Le icone mostrano anche le modifiche apportate al livello dati (se attivato). Passa il puntatore del mouse sopra un’icona per visualizzare un riepilogo dell’evento. Fai clic sull’evento per ulteriori dettagli. Per visualizzare più eventi, premi MAIUSC+clic o CTRL+clic.
+Per ogni evento, nella sequenza temporale viene visualizzata un’icona per la soluzione applicabile. Le icone mostrano anche le modifiche apportate al livello dati (se attivato). Passa il puntatore del mouse sopra un’icona per visualizzare un riepilogo dell’evento. Seleziona l’evento per ulteriori dettagli. Per visualizzare più eventi, puoi fare clic su Maiusc-Seleziona o Ctrl-Seleziona .
 
 ![](assets/events-details.jpg)
 
-Fai clic su un dettaglio per avere ulteriori informazioni.
+Seleziona un dettaglio per ulteriori informazioni.
 
 ![](assets/events-details-more.jpg)
 
@@ -34,15 +30,15 @@ Fai clic su un dettaglio per avere ulteriori informazioni.
 
 Per abilitare il tracciamento delle modifiche al livello dei dati nella sequenza temporale:
 
-1. Fai clic sull’icona a forma di ingranaggio in alto a destra.
+1. Seleziona l’icona a forma di ingranaggio in alto a destra.
 1. Inserisci il nome del livello dati.
 
    ![](assets/event-datalayer.jpg)
 
-1. Fai clic su **[!UICONTROL Save]**.
+1. Seleziona **[!UICONTROL Save]**.
 
-I dettagli delle modifiche mostrano tutti gli elementi che sono stati eliminati o aggiunti al livello dati. Puoi fare clic su **{}** per avere più informazioni sul livello dati.
+I dettagli delle modifiche mostrano tutti gli elementi che sono stati eliminati o aggiunti al livello dati. È possibile selezionare **{}** per approfondire il livello dati.
 
 ## Scarica le informazioni sull’evento
 
-Fai clic su **[!UICONTROL Download]** per scaricare un file Excel con le informazioni sulle chiamate effettuate da una pagina.
+Seleziona **[!UICONTROL Download]** per scaricare un file Excel con informazioni sulle chiamate effettuate da una pagina.

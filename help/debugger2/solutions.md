@@ -1,52 +1,44 @@
 ---
 description: Utilizzo delle schede Soluzione in Adobe Experience Platform Debugger
 keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;riepilogo;cancellare;richieste;soluzioni;soluzione;informazioni;analytics;target;audience manager;media optimizer;amo;servizio id
-seo-description: 'Utilizzo delle schede Soluzione in Adobe Experience Platform Debugger '
-seo-title: 'Schede Soluzione in Adobe Experience Platform Debugger '
+seo-description: Using the Solution tabs in Adobe Experience Platform Debugger
+seo-title: Solution Tabs in Adobe Experience Platform Debugger
 title: Schede Soluzione
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 220746028a55f613ae45f31cb74d5da3e187f374
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 92%
+source-wordcount: '259'
+ht-degree: 47%
 
 ---
 
-# Soluzioni{#solution-tabs}
+# Soluzioni
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger è attualmente in versione beta. La documentazione e le funzionalità sono soggette a modifiche.
-
-Fai clic su una soluzione per visualizzare i risultati per specifiche soluzioni Adobe Experience Cloud.
+Adobe Experience Platform Debugger fornisce un elenco di **Soluzioni** nella navigazione a sinistra. Seleziona una soluzione per visualizzare i risultati per specifiche tecnologie Adobe Experience Cloud.
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-La schermata Adobe Experience Platform Web SDK mostra informazioni sull’SDK web per Adobe Experience Platform. Fai clic su **[!UICONTROL Configure]** per attivare o disattivare la registrazione nella console.
+La schermata Adobe Experience Platform Web SDK mostra informazioni sull’SDK web per Adobe Experience Platform. Seleziona **[!UICONTROL Configure]** per attivare o disattivare la registrazione della console.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-La schermata Analytics fornisce informazioni sull’implementazione di [Analytics](https://docs.adobe.com/content/help/it-IT/analytics/landing/home.html).
+La schermata Analytics fornisce informazioni sull’implementazione di [Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=it).
 
 ![](assets/analytics.jpg)
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-Utilizza la schermata Target per visualizzare le richieste di [Target](https://docs.adobe.com/content/help/it-IT/target/using/target-home.html)<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
+Utilizza la schermata Target per visualizzare [Target](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html) richieste o [mboxTrace](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html#section_256FCF7C14BB435BA2C68049EF0BA99E) dettagli di risposta.
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Utilizza la scheda [Audience Manager](https://docs.adobe.com/content/help/it-IT/audience-manager/user-guide/aam-home.html) per visualizzare i dettagli degli [eventi](https://docs.adobe.com/content/help/it-IT/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Fai clic sull’organizzazione per espanderla e visualizzare le informazioni.
+Utilizza la scheda [Audience Manager](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html) per visualizzare i dettagli degli [eventi](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Seleziona l’organizzazione per espanderla e visualizzare le informazioni.
 
-## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
+## Tag Adobe Experience Platform {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Nella sezione Adobe Experience Platform Launch puoi visualizzare le richieste di Platform Launch. Puoi anche fare clic su **[!UICONTROL Configuration]** per configurare i [codici da incorporare](https://docs.adobe.com/content/help/it-IT/launch/using/reference/upgrade/link-dtm-embed-code.html). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Experience Platform Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
-
-## Dynamic Tag Management {#dynamic-tag-management}
-
-Utilizza la sezione Dynamic Tag Management per visualizzare le richieste DTM. Puoi anche fare clic su **[!UICONTROL Configuration]** per configurare i [codici di incorporamento](https://docs.adobe.com/content/help/it-IT/dtm/using/client-side/code.html).
+Utilizza la sezione Tag di Adobe Experience Platform per visualizzare le richieste di tag. Puoi anche selezionare **[!UICONTROL Configuration]** per configurare [codici di incorporamento](https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html#embed-code). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Experience Platform Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
 
 ## Servizio Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Utilizza la scheda Servizio Experience Cloud ID per visualizzare le richieste del [servizio Experience Cloud ID](https://docs.adobe.com/content/help/it-IT/id-service/using/home.html).
+Utilizza la scheda Servizio Experience Cloud ID per visualizzare le richieste del [servizio Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it).
