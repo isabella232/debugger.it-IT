@@ -1,9 +1,10 @@
 ---
-source-git-commit: 8ee7a5d7878652a4b8d27a0255baf8f67f36f20d
-workflow-type: ht
-translation-type: ht
-source-wordcount: '6'
-ht-degree: 100%
+source-git-commit: 7c154c35fa8b1a704d291f6307704d6ea122f21c
+workflow-type: tm+mt
+source-wordcount: '9'
+ht-degree: 0%
 
 ---
-# Documentazione tecnica per Experience Platform Debugger
+# debugger.en è archiviato
+
+https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html

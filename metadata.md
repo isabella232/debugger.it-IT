@@ -9,11 +9,11 @@ getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://github.com/AdobeDocs/debugger.it-IT
-index: true
-source-git-commit: c90784acea22a3c39ff13bffcd280d5fb2c70e88
+hide: true
+source-git-commit: 7c154c35fa8b1a704d291f6307704d6ea122f21c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
