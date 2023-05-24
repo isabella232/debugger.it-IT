@@ -3,7 +3,7 @@ description: Schermata Informazioni di Rete di Experience Cloud Debugger
 keywords: debugger;estensione experience cloud debugger;chrome;estensione;rete;informazioni
 seo-description: Experience Cloud Debugger Network Information screen
 seo-title: Network Information
-title: Experience Cloud Debugger di informazioni di rete
+title: Experience Cloud Debugger informativo di rete
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303

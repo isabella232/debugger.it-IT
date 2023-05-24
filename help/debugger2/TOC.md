@@ -10,8 +10,8 @@ breadcrumb-title: Guida di Platform Debugger
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 81%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 * [Schermata Riepilogo](summary.md)
 * [Soluzioni](solutions.md)
 * [Registri](logs.md)
-* [Rete ](network.md)
+* [Rete](network.md)
 * [Eventi](events.md)
 * Auditor {#auditor}
    * [Panoramica](./auditor/overview.md)
    * [Test di coerenza dei tag](./auditor/tag-consistency.md)
-   * [Test di presenza tag](./auditor/tag-presence.md)
+   * [Test di presenza dei tag](./auditor/tag-presence.md)
    * [Test di configurazione](./auditor/configuration.md)
-   * [Prove di allarme](./auditor/alerts.md)
+   * [Test degli avvisi](./auditor/alerts.md)

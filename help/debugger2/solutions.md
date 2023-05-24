@@ -1,6 +1,6 @@
 ---
 description: Utilizzo delle schede Soluzione in Adobe Experience Platform Debugger
-keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;riepilogo;cancellare;richieste;soluzioni;soluzione;informazioni;analytics;target;audience manager;media optimizer;amo;servizio id
+keywords: debugger;estensione debugger di Experience Platform;chrome;estensione;riepilogo;cancellare;richieste;soluzioni;soluzione;informazioni;analytics;target;audience manager;media optimizer;amo;servizio id
 seo-description: Using the Solution tabs in Adobe Experience Platform Debugger
 seo-title: Solution Tabs in Adobe Experience Platform Debugger
 title: Schede Soluzione
@@ -15,7 +15,7 @@ ht-degree: 47%
 
 # Soluzioni
 
-Adobe Experience Platform Debugger fornisce un elenco di **Soluzioni** nella navigazione a sinistra. Seleziona una soluzione per visualizzare i risultati per specifiche tecnologie Adobe Experience Cloud.
+Adobe Experience Platform Debugger fornisce un elenco di **Soluzioni** nel menu di navigazione a sinistra. Seleziona una soluzione per visualizzare i risultati per specifiche tecnologie Adobe Experience Cloud.
 
 ## Adobe Experience Platform Web SDK {#aep}
 
@@ -29,7 +29,7 @@ La schermata Analytics fornisce informazioni sull’implementazione di [Analytic
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-Utilizza la schermata Target per visualizzare [Target](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html) richieste o [mboxTrace](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html#section_256FCF7C14BB435BA2C68049EF0BA99E) dettagli di risposta.
+Utilizza la schermata Target per visualizzare [Target](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html) richieste o [mboxTrace](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html#section_256FCF7C14BB435BA2C68049EF0BA99E) dettagli della risposta.
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
@@ -37,7 +37,7 @@ Utilizza la scheda [Audience Manager](https://docs.adobe.com/content/help/it-IT/
 
 ## Tag Adobe Experience Platform {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilizza la sezione Tag di Adobe Experience Platform per visualizzare le richieste di tag. Puoi anche selezionare **[!UICONTROL Configuration]** per configurare [codici di incorporamento](https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html#embed-code). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Experience Platform Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
+Utilizza la sezione Tag di Adobe Experience Platform per visualizzare le richieste di tag. Puoi anche selezionare **[!UICONTROL Configuration]** da configurare [codici da incorporare](https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html#embed-code). È possibile modificare, sostituire o aggiungere altri codici di incorporamento direttamente da Experience Platform Debugger. Se effettui l’accesso, puoi selezionare una proprietà alternativa dai menu a discesa.
 
 ## Servizio Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 

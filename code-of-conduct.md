@@ -1,6 +1,8 @@
 ---
 source-git-commit: a29fa566513ef1b69e3b0b4be1d4cb2c22c72fe1
-translation-type: ht
+workflow-type: tm+mt
+source-wordcount: '431'
+ht-degree: 100%
 
 ---
 # Codice di condotta di Adobe
@@ -48,4 +50,4 @@ I responsabili del progetto che non seguono o non applicano il Codice di condott
 ## Attribuzione
 
 Il presente Codice di condotta è stato adattato dal [Codice di Comportamento del Collaboratore](https://contributor-covenant.org), versione 1.4,
-disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+disponibile all’indirizzo [https://www.contributor-covenant.org/it/version/1/4/code-of-conduct](https://www.contributor-covenant.org/it/version/1/4/code-of-conduct)

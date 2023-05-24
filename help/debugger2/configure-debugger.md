@@ -14,7 +14,7 @@ ht-degree: 62%
 
 # Configurare Platform Debugger
 
-Puoi configurare alcuni aspetti dell’aspetto e del funzionamento di Adobe Experience Platform Debugger.
+È possibile configurare alcuni aspetti dell’aspetto e del funzionamento di Adobe Experience Platform Debugger.
 
 ![](assets/settings.jpg)
 

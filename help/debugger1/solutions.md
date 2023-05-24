@@ -3,7 +3,7 @@ description: Utilizzo delle schede Soluzione in Adobe Debugger
 keywords: debugger;estensione experience cloud debugger;chrome;estensione;riepilogo;cancellare;richieste;soluzioni; soluzione;informazioni;analytics;target;audience manager;media optimizer;amo;servizio id
 seo-description: Using the Solution tabs in Adobe Debugger
 seo-title: Solution Tabs in Adobe Debugger
-title: Schede Soluzione in Experience Cloud Debugger
+title: Schede Soluzione nel Experience Cloud Debugger
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
@@ -69,7 +69,7 @@ Fai clic su **[!UICONTROL Requests]**, quindi espandi l’ambiente per visualizz
 
 Fai clic su **[!UICONTROL Clear All Requests]** per rimuovere le richieste attualmente visualizzate. Verranno visualizzate più richieste man mano che queste vengono effettuate.
 
-Puoi inoltre utilizzare il filtro Target per [abilitare la traccia MBox a scopo di debug Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+Puoi inoltre utilizzare il filtro Target per [abilitare la traccia MBox a scopo di debug Target](https://docs.adobe.com/content/help/it-IT/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Per abilitare Mbox Trace, devi avere una scheda Chrome aperta autenticata in Experience Cloud. Una volta attivato, viene visualizzato il nome utente dell’Adobe ID. Espandi il tuo nome utente per esporre i codici client di Target associati alle organizzazioni Experience Cloud a cui hai accesso. Fai clic sul codice client per il quale desideri abilitare Mbox Trace e verifica che sia visualizzato il segno di spunta verde. Verranno visualizzate tutte le richieste Target con le informazioni di traccia Mbox, raggruppate per codice client. Per esplorare le informazioni di Mbox Trace, espandi la richiesta per visualizzare le schede:
 
@@ -77,7 +77,7 @@ Per abilitare Mbox Trace, devi avere una scheda Chrome aperta autenticata in Exp
 
 * Richiesta
 
-   La scheda della richiesta di [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) è simile alla scheda della richiesta principale. Puoi visualizzare tutti i parametri passati dalla richiesta Target, oltre alle intestazioni della richiesta.
+   La scheda della richiesta di [Mbox Trace](https://docs.adobe.com/content/help/it-IT/target/using/activities/troubleshoot-activities/content-trouble.html) è simile alla scheda della richiesta principale. Puoi visualizzare tutti i parametri passati dalla richiesta Target, oltre alle intestazioni della richiesta.
 * Profilo
 
    Espandi la sezione Profilo Snapshot per visualizzare le [informazioni di profilo](https://docs.adobe.com/content/help/it-IT/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) memorizzate come visitatore nel database dei profili di Target. Tutti i profili in-mbox e script sono esposti qui, oltre ad alcuni di sistema. La colonna Stato mostra i profili modificati nell’ambito di questa richiesta, nonché i relativi valori prima e dopo l’ingresso della richiesta nel sistema del profilo.

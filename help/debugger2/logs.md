@@ -1,6 +1,6 @@
 ---
 description: Scopri come utilizzare la scheda Registri in Adobe Experience Platform Debugger.
-keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;registri
+keywords: debugger;estensione Experience Platform Debugger;chrome;estensione;logs
 seo-description: Experience Platform Debugger Logs screen
 seo-title: Logs
 title: Scheda Registri
@@ -15,7 +15,7 @@ ht-degree: 50%
 
 # Scheda Registri
 
-La **Registri** Questa scheda fornisce informazioni specifiche sui tag e sulle implementazioni dell’SDK per web di Adobe Experience Platform. Puoi filtrare in base alle soluzioni implementate tramite gli strumenti associati.
+Il **Registri** fornisce informazioni specifiche sui tag e sulle implementazioni Adobe Experience Platform Web SDK. Puoi filtrare in base alle soluzioni implementate tramite gli strumenti associati.
 
 ![](assets/logs.jpg)
 
@@ -34,6 +34,6 @@ La scheda Registri mostra le informazioni in quattro colonne:
 
 **[!UICONTROL Log message]:** descrive il problema.
 
-Alcuni messaggi di registro includono l’opzione Mostra codice. Seleziona **[!UICONTROL Show Code]** per visualizzare il codice condizionale che determina se attivare o meno una regola.
+Alcuni messaggi di registro includono l’opzione Mostra codice. Seleziona **[!UICONTROL Show Code]** per visualizzare il codice condizionale che determina se attivare una regola.
 
 Per cancellare il registro, seleziona **[!UICONTROL Remove Logs]**.
